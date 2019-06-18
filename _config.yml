@@ -1,3 +1,5 @@
 name: deadem
 
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
