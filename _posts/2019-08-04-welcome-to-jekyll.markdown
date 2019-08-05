@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Отличноая обучалка гридам"
+title:  "Отличная обучалка гридам"
 date:   2019-08-04 07:37:38 -0400
 categories: code learn
 ---
