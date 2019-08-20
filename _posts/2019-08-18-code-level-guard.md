@@ -100,7 +100,7 @@ namespace Guard
 #define ROOT_VALUE
 #endif
 
-static_assert(LEVEL >=
+static_assert(LEVEL <=
 #pragma pop_macro("LEVEL")
 #pragma push_macro("LEVEL")
     LEVEL, "Invalid include order");
