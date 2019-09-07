@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 disqus:
-  shortname: disqus_Bz5PrcX36v
+  shortname: deadem
   
 google_analytics: UA-365229-4
     
