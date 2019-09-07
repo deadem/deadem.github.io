@@ -33,6 +33,8 @@ plugins:
 
 disqus:
   shortname: disqus_Bz5PrcX36v
+  
+google_analytics: UA-365229-4
     
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
