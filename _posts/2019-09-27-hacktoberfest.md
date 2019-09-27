@@ -13,10 +13,6 @@ categories: [code]
 
 Предыдущие достижения:
 
-Хактоберфест 2017:
-
-![](/images/hacktoberfest-2017.png)
-
 Хактоберфест 2018:
 
 ![](/images/hacktoberfest-2018.png)
@@ -24,3 +20,7 @@ categories: [code]
 Хактоберфест 2018, версия от Майкрософт:
 
 ![](/images/hacktoberfest-2018-ms.png)
+
+Хактоберфест 2017:
+
+![](/images/hacktoberfest-2017.png)
