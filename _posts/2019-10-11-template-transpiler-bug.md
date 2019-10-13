@@ -62,7 +62,7 @@ function update(value) {
 Тайпскрипт же генерит вот такой код:
 ```
 function update(value) {
-    test(__makeTemplateObject(["some ", "!"], ["some ", "!"]), value);
+  test(__makeTemplateObject(["some ", "!"], ["some ", "!"]), value);
 }
 ```
 
@@ -79,7 +79,7 @@ function update(value) {
 Самый простой вариант обхода проблемы в Тайпскрипте - собрать тот же код в виде модуля, тогда создаётся один объект и проблема уходит:
 ```
 function update(value) {
-    test(templateObject_1 || (templateObject_1 = __makeTemplateObject(["some ", "!"], ["some ", "!"])), value);
+  test(templateObject_1 || (templateObject_1 = __makeTemplateObject(["some ", "!"], ["some ", "!"])), value);
 }
 ```
 

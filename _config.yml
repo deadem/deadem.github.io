@@ -26,6 +26,7 @@ url: "http://deadem.ru" # the base hostname & protocol for your site, e.g. http:
 github_username:  deadem
 
 # Build settings
+#future: true
 markdown: kramdown
 theme: minima
 plugins:
