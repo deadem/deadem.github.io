@@ -79,4 +79,4 @@ jump loop
 <br>
 
 ![](/images/mel-story.png)
-<br>Крайний справа стоит Мэл.
+<br>Крайний справа стоит Мэл. (Librascope Librazette, volume 4, number 6, August 1956)
