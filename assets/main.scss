@@ -10,6 +10,12 @@ blockquote {
   letter-spacing: -0.1px;
 }
 
+$background-color-code: #f0f0f0;
+
 pre, code {
-	background-color: #f0f0f0;
+  background-color: $background-color-code;
+}
+
+.highlighter-rouge .highlight {
+  background-color: $background-color-code;
 }
