@@ -14,6 +14,7 @@ $background-color-code: #f0f0f0;
 
 pre, code {
   background-color: $background-color-code;
+  white-space: pre;
 }
 
 .highlighter-rouge .highlight {
