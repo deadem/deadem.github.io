@@ -178,3 +178,11 @@ function fillBowl<T extends string>(candy: T) {
     return { candy }
 }
 ```
+
+#### Intermediate/Advanced Challenge
+
+Ну, тут тоже не было сложно. Так я умею:
+
+```typescript
+const check = <T extends Competitor>(data: T[]) => {
+```
