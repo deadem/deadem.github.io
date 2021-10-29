@@ -158,3 +158,23 @@ function setupFooter<T1 extends string, T2 extends string, T3 extends string>(st
 }
 ```
 
+### Day 4 Challenges
+#### Beginner/Learner Challenge
+
+Первая часть уже была в предыдущих днях. Странно, что повторяется. Но ок.
+
+```typescript
+function getBowl<T>(items: T) {
+    return { items }
+}
+```
+
+А тут есть продолжение...
+
+Ну, несильно сложнее:
+
+```typescript
+function fillBowl<T extends string>(candy: T) {
+    return { candy }
+}
+```
