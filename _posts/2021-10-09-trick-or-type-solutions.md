@@ -9,7 +9,7 @@ categories: [code, typescript]
 
 Тут напишу свои решения задачек из челленджа `Type | Treat 2021`, там запрета на публикацию нет, а даже совсем наоборот, приветствуется.
 
-[Ссылка на плейбук с задачками](https://www.typescriptlang.org/play?#gist/927ccc66ae3022dc64c4f650109b937a-1)
+[Ссылка на плейбук с задачками](https://www.typescriptlang.org/play?#gist/927ccc66ae3022dc64c4f650109b937a-0)
 
 [Лента с анонсами и обсуждениями на dev.io](https://dev.to/typescript)
 
