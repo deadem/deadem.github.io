@@ -136,3 +136,25 @@ type Length = `${ValidNumber}${'' | ' '}${'in' | 'cm'}` | '0'
 ```
 Посмотрел ответ: пффф! Мой вариант и есть тот самый "Very cool solution".
 
+#### Intermediate/Advanced Challenge
+
+И это тоже было просто - новая фича, совсем недавно про неё в анонсах читал:
+
+```typescript
+function makeTitle<T extends string>(str: T) {
+    return "<spooky>" + str.toUpperCase() + "</spooky>" as `<spooky>${Uppercase<T>}</spooky>`
+}
+```
+
+А следующую без подсказки не догадался как раскручивать. Прикольно, что литералы могут и обратно в типы разбираться:
+
+```typescript
+function setupFooter<T1 extends string, T2 extends string, T3 extends string>(str: `${T1},${T2},${T3}`) {
+    return { 
+        name: str.split(",")[0] as T1,
+        date: str.split(",")[1] as T2,
+        address: str.split(",")[2] as T3
+    }
+}
+```
+
