@@ -186,3 +186,19 @@ function fillBowl<T extends string>(candy: T) {
 ```typescript
 const check = <T extends Competitor>(data: T[]) => {
 ```
+
+### Day 4 Challenges
+#### Beginner/Learner Challenge
+
+Если я правильно понял, что хотят авторы (ну у них и способ выдачи требований!), то вот:
+
+```typescript
+type SchemeNames = keyof typeof scheme
+...
+function possibleSchemeItems(colors: Record<SchemeNames, PossibleColors>): SchemeNames[] {
+    const keys = Object.keys(colors) as SchemeNames[]
+    return keys
+}
+...
+type PossibleColors = typeof scheme[SchemeNames]
+```
