@@ -187,7 +187,7 @@ function fillBowl<T extends string>(candy: T) {
 const check = <T extends Competitor>(data: T[]) => {
 ```
 
-### Day 4 Challenges
+### Day 5 Challenges
 #### Beginner/Learner Challenge
 
 Если я правильно понял, что хотят авторы (ну у них и способ выдачи требований!), то вот:
