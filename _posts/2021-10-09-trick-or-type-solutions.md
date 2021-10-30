@@ -202,3 +202,18 @@ function possibleSchemeItems(colors: Record<SchemeNames, PossibleColors>): Schem
 ...
 type PossibleColors = typeof scheme[SchemeNames]
 ```
+
+#### Intermediate/Advanced Challenge
+
+Тут пришлось немного заморочиться. В итоге как-то так:
+
+```typescript
+type EventsType<T = IncomingBookMap> = { [K in keyof T]: (e: T[K]) => void }
+function handleSale(events: EventsType) {
+```
+
+Гы. Step 1-3 сами разрешились таким решением. А Step 4 - опять литералы. Фуф! Весь мозг сломал! Оказывается, что в ключах можно `as` писать. А я его и так и эдак пытался значение в ключ пропихнуть...
+
+```typescript
+type EventsType = { [K in Books['genre'] as `on${K}`]: (e: Extract<Books, { 'genre': K }>) => void }
+```
