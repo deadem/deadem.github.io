@@ -217,3 +217,9 @@ function handleSale(events: EventsType) {
 ```typescript
 type EventsType = { [K in Books['genre'] as `on${K}`]: (e: Extract<Books, { 'genre': K }>) => void }
 ```
+
+Выложили решения. Авторское решение гораздо чище. Вон оно как, оказывается можно!
+
+```typescript
++ function handleSale(events: { [Book in Books as `on${Book["genre"]}`]?: (e: Book) => void }) {
+```
