@@ -343,7 +343,7 @@ Promise.reject(new Error('some awful error'));
 
 ### Продвинутая ошибка №2: then(resolveHandler).catch(rejectHandler) - это не то же самое, что then(resolveHandler, rejectHandler)
 
-Раньше я говорил, что `catch()` - это просто синтаксический сахар. Так что это два выражения эквивалентны:
+Раньше я говорил, что `catch()` - это просто синтаксический сахар. Так что эти два выражения эквивалентны:
 
 ```js
 somePromise().catch(function (err) {
