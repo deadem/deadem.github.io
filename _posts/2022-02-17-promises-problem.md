@@ -18,12 +18,12 @@ categories: [js, code]
 В чем отличие этих четырёх фрагментов кода? Функции `doSomething()` и `doSomethingElse()` возвращают промисы, которые долго и асинхронно что-то делают.
 
 ```js
-doSomething().then(() => {
+doSomething().then(function () {
   return doSomethingElse();
 });
 ```
 ```js
-doSomething().then(() => {
+doSomething().then(function () {
   doSomethingElse();
 });
 ```
@@ -43,22 +43,22 @@ doSomething().then(doSomethingElse);
 В разной литературе их описывают, как "избавление от ада с колбеками" (`callback hell`), как способ избавиться от огромных пирамид кода, постоянно вылезающих за правый край экрана, типа таких:
 
 ```js
-fs.readdir(source, (err, files) => {
+fs.readdir(source, function (err, files) {
   if (err) {
     console.log('Error finding files: ' + err)
   } else {
-    files.forEach((filename, fileIndex) => {
+    files.forEach(function (filename, fileIndex) {
       console.log(filename)
-      gm(source + filename).size((err, values) => {
+      gm(source + filename).size(function (err, values) {
         if (err) {
           console.log('Error identifying file size: ' + err)
         } else {
           console.log(filename + ' : ' + values)
           aspect = (values.width / values.height)
-          widths.forEach((width, widthIndex) => {
+          widths.forEach(function (width, widthIndex) {
             height = Math.round(width / aspect)
             console.log('resizing ' + filename + 'to ' + height + 'x' + height)
-            this.resize(width, height).write(dest + 'w' + width + '_' + filename, (err) => {
+            this.resize(width, height).write(dest + 'w' + width + '_' + filename, function(err) {
               if (err) console.log('Error writing file: ' + err)
             })
           }.bind(this))
@@ -89,15 +89,15 @@ fs.readdir(source, (err, files) => {
 remotedb.allDocs({
   include_docs: true,
   attachments: true
-}).then((result) => {
+}).then(function (result) {
   var docs = result.rows;
-  docs.forEach((element) => {
-    localdb.put(element.doc).then((response) => {
+  docs.forEach(function(element) {
+    localdb.put(element.doc).then(function(response) {
       alert("Pulled doc with id " + element.doc._id + " and added to local db.");
-    }).catch((err) => {
+    }).catch(function (err) {
       if (err.name == 'conflict') {
-        localdb.get(element.doc._id).then((resp) => {
-          localdb.remove(resp._id, resp._rev).then((resp) => {
+        localdb.get(element.doc._id).then(function (resp) {
+          localdb.remove(resp._id, resp._rev).then(function (resp) {
 // et cetera...
 ```
 
@@ -108,13 +108,13 @@ remotedb.allDocs({
 Лучше было написать так:
 
 ```js
-remotedb.allDocs(...).then((resultOfAllDocs) => {
+remotedb.allDocs(...).then(function (resultOfAllDocs) {
   return localdb.put(...);
-}).then((resultOfPut) => {
+}).then(function (resultOfPut) {
   return localdb.get(...);
-}).then((resultOfGet) => {
+}).then(function (resultOfGet) {
   return localdb.put(...);
-}).catch((err) => {
+}).catch(function (err) {
   console.log(err);
 });
 ```
@@ -127,11 +127,11 @@ remotedb.allDocs(...).then((resultOfAllDocs) => {
 
 ```js
 // I want to remove() all docs
-db.allDocs({include_docs: true}).then((result) => {
-  result.rows.forEach((row) => {
+db.allDocs({include_docs: true}).then(function (result) {
+  result.rows.forEach(function (row) {
     db.remove(row.doc);  
   });
-}).then(() => {
+}).then(function () {
   // I naively believe all docs have been removed() now!
 });
 ```
@@ -143,11 +143,11 @@ db.allDocs({include_docs: true}).then((result) => {
 Чтобы правильно написать тут цикл, нужен `Promise.all()`:
 
 ```js
-db.allDocs({include_docs: true}).then((result) => {
-  return Promise.all(result.rows.map((row) => {
+db.allDocs({include_docs: true}).then(function (result) {
+  return Promise.all(result.rows.map(function (row) {
     return db.remove(row.doc);
   }));
-}).then((arrayOfResults) => {
+}).then(function (arrayOfResults) {
   // All docs have really been removed() now!
 });
 ```
@@ -165,9 +165,9 @@ db.allDocs({include_docs: true}).then((result) => {
 Чтобы избежать такого, я всегда добавляю в цепочку промисов подобный код: 
 
 ```js
-somePromise().then(() => {
+somePromise().then(function () {
   return anotherPromise();
-}).then(() => {
+}).then(function () {
   return yetAnotherPromise();
 }).catch(console.log.bind(console)); // <-- this is badass
 ```
@@ -190,8 +190,8 @@ $q.when(db.put(doc)).then(/* ... */); // <-- this is all the code you need
 Другой стратегией будет использование шаблона "Открытый конструктор", который удобен для оборачивания асинхронных API, построенных не на промисах. Например, API, построенные на колбеках, типа `fs.readFile()` в `Node.js`:
 
 ```js
-new Promise((resolve, reject) => {
-  fs.readFile('myfile.txt', (err, file) => {
+new Promise(function (resolve, reject) {
+  fs.readFile('myfile.txt', function (err, file) {
     if (err) {
       return reject(err);
     }
@@ -209,9 +209,9 @@ new Promise((resolve, reject) => {
 Что не так с этим кодом?
 
 ```js
-somePromise().then(() => {
+somePromise().then(function () {
   someOtherPromise();
-}).then(() => {
+}).then(function () {
   // Gee, I hope someOtherPromise() has resolved!
   // Spoiler alert: it hasn't.
 });
@@ -228,7 +228,7 @@ somePromise().then(() => {
 Вот мы внутри `then`-функции:
 
 ```js
-somePromise().then(() => {
+somePromise().then(function () {
   // I'm inside a then() function!
 });
 ```
@@ -246,9 +246,9 @@ somePromise().then(() => {
 Этот пример чаще всего встречается в литературе о промисах под названием "композиция промисов":
 
 ```js
-getUserByName('nolan').then((user) => {
+getUserByName('nolan').then(function (user) {
   return getUserAccountById(user.id);
-}).then((userAccount) => {
+}).then(function (userAccount) {
   // I got a user account!
 });
 ```
@@ -260,12 +260,12 @@ getUserByName('nolan').then((user) => {
 Возврат `undefined` - это скорее всего ошибка, но вообще возврат синхронного значения - это отличная фича, чтобы обернуть синхронный код промисами. Представьте, что у нас есть кеш пользователей. Вот как мы можем написать:
 
 ```js
-getUserByName('nolan').then((user) => {
+getUserByName('nolan').then(function (user) {
   if (inMemoryCache[user.id]) {
     return inMemoryCache[user.id];    // returning a synchronous value!
   }
   return getUserAccountById(user.id); // returning a promise!
-}).then((userAccount) => {
+}).then(function (userAccount) {
   // I got a user account!
 });
 ```
@@ -281,7 +281,7 @@ getUserByName('nolan').then((user) => {
 Когда дело касается `throw`, промисы становятся ещё более мощными. Предположим, что мы хотим сгенерировать ошибку в случае, если пользователь не авторизован. Это просто:
 
 ```js
-getUserByName('nolan').then((user) => {
+getUserByName('nolan').then(function (user) {
   if (user.isLoggedOut()) {
     throw new Error('user logged out!'); // throwing a synchronous error!
   }
@@ -289,9 +289,9 @@ getUserByName('nolan').then((user) => {
     return inMemoryCache[user.id];       // returning a synchronous value!
   }
   return getUserAccountById(user.id);    // returning a promise!
-}).then((userAccount) => {
+}).then(function (userAccount) {
   // I got a user account!
-}).catch((err) => {
+}).catch(function (err) {
   // Boo, I got an error!
 });
 ```
@@ -311,7 +311,7 @@ getUserByName('nolan').then((user) => {
 Как я показывал выше, промисы очень удобны для оборачивания синхронного кода в асинхронный. Но если вы поймали себя на том, что напечатали такое:
 
 ```js
-new Promise((resolve, reject) => {
+new Promise(function (resolve, reject) {
   resolve(someSynchronousValue);
 }).then(/* ... */);
 ```
@@ -326,7 +326,7 @@ Promise.resolve(someSynchronousValue).then(/* ... */);
 
 ```js
 function somePromiseAPI() {
-  return Promise.resolve().then(() => {
+  return Promise.resolve().then(function () {
     doSomethingThatMayThrow();
     return 'foo';
   }).then(/* ... */);
@@ -346,11 +346,11 @@ Promise.reject(new Error('some awful error'));
 Раньше я говорил, что `catch()` - это просто синтаксический сахар. Так что эти два выражения эквивалентны:
 
 ```js
-somePromise().catch((err) => {
+somePromise().catch(function (err) {
   // handle error
 });
 
-somePromise().then(null, (err) => {
+somePromise().then(null, function (err) {
   // handle error
 });
 ```
@@ -358,30 +358,30 @@ somePromise().then(null, (err) => {
 Однако, это не значит, что эквивалентны эти два:
 
 ```js
-somePromise().then(() => {
+somePromise().then(function () {
   return someOtherPromise();
-}).catch((err) => {
+}).catch(function (err) {
   // handle error
 });
 
-somePromise().then(() => {
+somePromise().then(function () {
   return someOtherPromise();
-}, (err) => {
+}, function (err) {
   // handle error
 });
 ```
 Если вам интересно, почему они не эквивелентны, подумайте, что произойдёт, если первая функция бросит исключение:
 
 ```js
-somePromise().then(() => {
+somePromise().then(function () {
   throw new Error('oh noes');
-}).catch((err) => {
+}).catch(function (err) {
   // I caught your error! :)
 });
 
-somePromise().then(() => {
+somePromise().then(function () {
   throw new Error('oh noes');
-}, (err) => {
+}, function (err) {
   // I didn't catch your error! :(
 });
 ```
@@ -391,10 +391,10 @@ somePromise().then(() => {
 По этой причине я никогда не использую второй аргумент у `then()` и всегда предпочитаю `catch()`. Исключения бывают только когда я пишу Мока-тесты, где мне нужно проверить, что выбрасывается ошибка:
 
 ```js
-it('should throw an error', () => {
-  return doSomethingThatThrows().then(() => {
+it('should throw an error', function () {
+  return doSomethingThatThrows().then(function () {
     throw new Error('I expected an error!');
-  }, (err) => {
+  }, function (err) {
     should.exist(err);
   });
 });
@@ -403,11 +403,11 @@ it('should throw an error', () => {
 Из-за того, что `catch` - это сахар для `then`, нужно помнить, что цепочку промисов можно продолжить после `catch`. И можно использовать это для восстановления при ошибках:
 
 ```js
-somePromise().then(() => {
+somePromise().then(function () {
   throw new Error('uh! oh!');
-}).catch((err) => {
+}).catch(function (err) {
   return 'recovered';
-}).then((message) => {
+}).then(function (message) {
   // Got an "recovered" message
 });
 ```
@@ -440,7 +440,7 @@ somePromise().then(/* ... */
 ```js
 function executeSequentially(promises) {
   var result = Promise.resolve();
-  promises.forEach((promise) => {
+  promises.forEach(function (promise) {
     result = result.then(promise);
   });
   return result;
@@ -454,7 +454,7 @@ function executeSequentially(promises) {
 ```js
 function executeSequentially(promiseFactories) {
   var result = Promise.resolve();
-  promiseFactories.forEach((promiseFactory) => {
+  promiseFactories.forEach(function (promiseFactory) {
     result = result.then(promiseFactory);
   });
   return result;
@@ -478,9 +478,9 @@ function myPromiseFactory() {
 Бывает, что результат одного промиса зависит от другого, и при этом нужен результат обоих промисов. Например:
 
 ```js
-getUserByName('nolan').then((user) => {
+getUserByName('nolan').then(function (user) {
   return getUserAccountById(user.id);
-}).then((userAccount) => {
+}).then(function (userAccount) {
   // dangit, I need the "user" object too!
 });
 ```
@@ -489,10 +489,10 @@ getUserByName('nolan').then((user) => {
 
 ```js
 var user;
-getUserByName('nolan').then((result) => {
+getUserByName('nolan').then(function (result) {
   user = result;
   return getUserAccountById(user.id);
-}).then((userAccount) => {
+}).then(function (userAccount) {
   // okay, I have both the "user" and the "userAccount"
 });
 ```
@@ -500,9 +500,9 @@ getUserByName('nolan').then((result) => {
 Так заработает, но мне кажется, что оно выглядит коряво. Вместо этого можно вернуть из первой функции кортеж:
 
 ```js
-getUserByName('nolan').then((user) => {
+getUserByName('nolan').then(function (user) {
   return [ user, getUserAccountById(user.id) ];
-}).then(([ user, userAccount ]) => {
+}).then(function ([ user, userAccount ]) {
   // okay, I have both the "user" and the "userAccount"
 });
 ```
@@ -510,8 +510,8 @@ getUserByName('nolan').then((user) => {
 Или отбросить предубеждения и построить-таки пирамиду:
 
 ```js
-getUserByName('nolan').then((user) => {
-  return getUserAccountById(user.id).then((userAccount) => {
+getUserByName('nolan').then(function (user) {
+  return getUserAccountById(user.id).then(function (userAccount) {
     // okay, I have both the "user" and the "userAccount"
   });
 });
@@ -525,14 +525,14 @@ function onGetUserAndUserAccount(user, userAccount) {
 }
 
 function onGetUser(user) {
-  return getUserAccountById(user.id).then((userAccount) => {
+  return getUserAccountById(user.id).then(function (userAccount) {
     return onGetUserAndUserAccount(user, userAccount);
   });
 }
 
 getUserByName('nolan')
   .then(onGetUser)
-  .then(() => {
+  .then(function () {
   // at this point, doSomething() is done, and we are back to indentation 0
 });
 ```
@@ -555,7 +555,7 @@ putYourRightFootIn()
 Как вы думаете, что напечатает этот код?
 
 ```js
-Promise.resolve('foo').then(Promise.resolve('bar')).then((result) => {
+Promise.resolve('foo').then(Promise.resolve('bar')).then(function (result) {
   console.log(result);
 });
 ```
@@ -565,7 +565,7 @@ Promise.resolve('foo').then(Promise.resolve('bar')).then((result) => {
 Так происходит потому, что если в `then()` передаётся не функция, а что-то другое, то `then()` просто выбрасывается из цепочки, и приводит это к тому, что дальше "проливается" предыдущий результат. Можете проверить: 
 
 ```js
-Promise.resolve('foo').then(null).then((result) => {
+Promise.resolve('foo').then(null).then(function (result) {
   console.log(result);
 });
 ```
@@ -576,9 +576,9 @@ Promise.resolve('foo').then(null).then((result) => {
 Что возвращает нас к предыдущему пункту про промисы и фабрики. Передать промис в функцию `then()` возможно, но навряд ли это то, что вы хотели. `then()` предназначен, чтобы принимать на вход функцию, поэтому, скорее всего, вы хотели написать так:
 
 ```js
-Promise.resolve('foo').then(() => {
+Promise.resolve('foo').then(function () {
   return Promise.resolve('bar');
-}).then((result) => {
+}).then(function (result) {
   console.log(result);
 });
 ```
@@ -595,7 +595,7 @@ Promise.resolve('foo').then(() => {
 
 ### Задача 1
 ```js
-doSomething().then(() => {
+doSomething().then(function () {
   return doSomethingElse();
 }).then(finalHandler);
 ```
@@ -613,7 +613,7 @@ doSomething
 ### Задача 2
 
 ```js
-doSomething().then(() => {
+doSomething().then(function () {
   doSomethingElse();
 }).then(finalHandler);
 ```
