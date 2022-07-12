@@ -501,7 +501,7 @@ getUserByName('nolan').then(function (result) {
 
 ```js
 getUserByName('nolan').then(function (user) {
-  return [ user, getUserAccountById(user.id) ];
+  return Promise.all([ user, getUserAccountById(user.id) ]);
 }).then(function ([ user, userAccount ]) {
   // okay, I have both the "user" and the "userAccount"
 });
