@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Type | Treat 2020 + решения"
+date:   2022-07-27 01:00:00 -0400
+categories: [code, typescript]
+---
+
+![](/images/type-or-treat-2020.webp)
+
+Памятуя, насколько интересными были задачки на `Type | Treat 2021`, решил пройти `Type | Treat 2020`.
+
+Чтож, в 2020 году задачки были слабее. А главная претензия: далеко не всегда понятно из описания, что надо получить в результате. В 2021 уже стало значительно лучше. И со сложностью и с понятностью заданий.
+
+[Лента с анонсами и обсуждениями на dev.io](https://dev.to/typescript/type-treat-challenge-1-829)
+
+### Day 1 Challenges
+#### [Beginner/Learner Challenge](https://www.typescriptlang.org/play?#code/PTAEE0HsFcHICcCmoC2BDA1gSwHYHNQ0dCAHE0AdwAssBjK0WyHHRWgFwGdR3JDQAJmnZoARmk6IAUCFCQAZqAA2kWmiWg8VSJy6EcAnlURZ4oeWgBuMeFnbIqaaDi4A6KTLBRohJIyTCuATsxoxKWIgulDT0jMysHNy8RsKCwmISiAA0nvqGAJ4woI6WyESgAIIACgCSoEicJMySmpGI8MKIhvKQZoU+Trzo7HTqSvnuuQDqxsT9oLpo8Ow88PlBPHwCWI1KaPlGDk4uQZxZoPMB4QBe0rIhqfMCzLArGDiQFMWfmzz5JMgQsgSEs0ChEPYzERDAAraC6UDw5AAAyI+WRk1kqJw6OKElAdm4JD2tGyoFE0BWaDiSiUiDQeGgyCQTBQ4IMXRSK3mahwuSRoFgNQ5AA9OQAVf6ITiwX5IFCQUqHQVo2UUOzaSmMRz4DZA3IAcW0umqNQAStKmjgWuwpZNbQDQEadOxTRbGs1kABeUAAbykoFAODBiAAXAt2LZ8AHyaYQgARToAfnDuijeBjAnpCeTqcjQRjoiwkDz6Y8gcczhG+E44Yq8A6+QAPL6eHY6aWgucSPBFZEiKTO-hzio1CNmEOCABfAB8UinHiY1pW212+2dCJ9AAotC7wxvXbV3VbJABKUBemd+mNLziQOmuFR4LfIgByIfDABJfbvdK5g+CU7IqeMZYIoO7GuwrhFssVCJvY563veiCPpAz7IgAQnGVBCPkX4-pB0HYfBiBASBgZgaAEEuq4WbCHBnSIc0yGoeh8YRAI+G-lBdE5vYZE3sxD5Pi+AA6OBYSWoDftxRGQAJgnWixInIuJ9bsBQvQYLWwExrJlYnDWrg9PAACiaD0FuSwaVpF5Xv6gaBquxL7AAEsc1Z4JwVnLJp8AYORoBTiBC65N4Zh4JA6jhvKfZGDs+j5Oc6ohDAKz0EQeAbAebqWp6Ui3iuOwufk7lVqcF5UQZnnhmi56XtegZIcJaEvqAAC0oDiu2YbSb61VBK4IzsHSAlNUJKEqY534DfgqFjsWOBjXESkteh039R5g09n26A4KSAmhUAA)
+
+
+Достаточно просто: выковырять тип из объекта
+
+```typescript
+const displayHauntings = (haunting: GhostAPIResponse['hauntings'][number]) => {
+```
+
+#### [Intermediate/Advanced Challenge](https://www.typescriptlang.org/play?#code/PTAEE0HsFcCdQNYEsAmBnUALAhgNwKaiz4AucAdvilpALaEDuSJmo2oDmkANoQEbYA5gCgQoAGbRu3UJHFZs0yA3z5yobpEgkANG3LUAnjADkBUCWwI1FzIRJJ6FyKFFhaVwuxT40AY1gkAAcHSHU5NmlZeRZ8WgAuYWESQyDCAGVybD8EACFsWAwAXlAAb1dQUCz6eNAAInSuWBJQAGEuPx5sEkJ8wrrhSuxaGHISWoAWQdA-bANDWpJYaHxhAF8klLTQAHFoWgFpYrKKquH8WrqdrXxDXf3D7jQBys7NWEvBYjU60AAfepBOBBXjPaazeaLZarDbJVKEACCQRBvlAJXK02qF3qSJRYNecxQCws0PWm3hbS0yFR6NOWMurSpSF8LxmhOJSxW0zSc2gJDQUK5sK2GXISBy+EKfTRJ0x50umXF1kKoD6rIhRMFq0qPPIfIFJKF5O2ABUtCwgtg0D0ZRjKvT6mbtJhLdb8KzaEgxhzSZUlkqtWS4dsAApqPxIGS0uU1eph8gR7is-05QOwsRQaAzYjdLygNBewS8UBBSOECKKGSxIi+KT8vSEjhzFokFzQNCrMQsJAYVv5nDEWR82yML1i8iCDDDMKCUDGOCIVBoAB0rmDhAASrXuPyAGKwOgACUrylU6hKmWyeQKGABewOldvoFxoP+oEVEqlBTfjMg1KfToWlaNoAvGiZJBmpiDuISCFC0giQIWzhVKo1B9h2lqwLmQ4tnYbLzBIB60COJL4N0aA6G4c4wPhoAoC4LDdKAuBIOwnQGMwSBhIoFjwiuEFgCKz7SK0hLMscy6SVRQkItIJqBDkElSVRskjNaI7EHofDDtwzAkMWJi5JAfB8HcJrYHwoImPh5DaAo5i6vqq6ieQVHzqAHjWGwGg9i0EQauJoAAFbti04iQPAmCOAA-AJvHbLJ3AuSg4kAOrMFwfJhry-IypJy7CEAA)
+
+Подсказали, что нужно использовать conditional types. В сегодняшнем TS готовые хелперы лежат в Utility types (Exclude/Extract).
+
+Вот решение без них
+```typescript
+type helper<T,V> = T extends V ? T : never;
+type AllCandies = helper<ResultsFromHalloween, { candy: true }>;
+type AllTricks = helper<ResultsFromHalloween, { trick: true }>;
+ 
+type inverse<T, V> = T extends V ? never : T;
+type AllCandiesWithoutPeanuts = inverse<AllCandies, { peanuts: true }>;
+```
+
+А вот с ними:
+
+```typescript
+type AllCandies = Extract<ResultsFromHalloween, { candy: true }>;
+type AllTricks = Extract<ResultsFromHalloween, { trick: true }>;
+ 
+type AllCandiesWithoutPeanuts = Exclude<AllCandies, { peanuts: true }>;
+```
+
+### Day 2 Challenges
+#### [Beginner/Learner Challenge](https://www.typescriptlang.org/play?#code/PTAEE0HsFdQCwIYDcCmoGlQJwJ6gM4AOKAxgJYIA2oh0AtoQNZkB2ANOiwCag4ygB3BCwAuoEZFAksKBCLQYROYqABmWSHVBkRAOgBQ+kKAAqWBFx1lILKpTxFZzFgHMOfWCRiUeXFKtYFcWU0SCxtURQsVQQSFCMwVTDxODR8RGIOACNoMQ90GVAbe1AXSFYXcUlEVBSyfCKWNFoGZzYEgkl8rhsAcjFVFBRqSjJGNB1ehoEwkThQLmhCUZI5CpS0PwCWKxsDfS8WfDEWplZQAF5QAG99UClISjCALlAAIhxhp4F6uDf2+5KYivN5laBYLj-O4EMgALxQIIAsihLPQofcUE0sC4cCCAIwABgAnKAANIAKxoUVAhIJLnRam+URRrxilHwKABMPhAGFESCAKwE3QADlAAA9QAAWYUANgloAAzMKAExSOhQgC+AG5DMYAJJHeQWIqqKQyNaudDBFSjcbPBIdIFoAAK9DOLEuN1AHXuXieWFexywFV9oF0EY6msdxh5wl4-Hy0A5NpQkDNzoaEnNsnk1vwFUoaFGWIA-IZnaA3a1zldhDg9WAAHIocViJYcGQchBYEjzOCQAQJzzx5NBXJkUZKVNVeDCLhFp2pAgIOjNDRZItaH5za2qaAsEgiawsXSgAASg6k8fyrZE5iPGw6MhE4M9lfUmjqDX3h+PNlnFwUDEOY0lXNBnXLA4bGOHM5BQABRcVV2WFBqw9L0AAoAEpLgAPhuaEXzfGh3WcfRo30St0OcAAxDQ6Fog8jxPL1630IA)
+
+Что-то перемудрил, можно же было просто `typeof pumpkin`:
+
+```typescript
+type Pumpkin = { [keys in keyof typeof pumpkin]: typeof pumpkin[keys] }
+
+type PumpkinFromFunction = ReturnType<typeof createExamplePumpkin>
+```
+
+#### [Intermediate/Advanced Challenge](https://www.typescriptlang.org/play?ssl=49&ssc=69&pln=49&pc=73#code/PTAEEkBcHIGdQEYFMkDtQEcCuBLSTQBDdJANzR1QHMAaUWAewFskHUCAbJSUBrHwhw4BYAFAhQkABYEqUhrEjwAnn2jlEKdAGNCkbVMpVQAMwYAnUKqyWTOc4qtJClyqDESEWWJSSxYAHSgACpSenCgqAw8ZGiSMqAA7haOCHjxfHJ0HmDpkDao8Hw8VAwAJvDEZaBlSExsleYEgoygTYLu4mBVRE2RDIlEQrzklgCyxGGQkMQBYjkhCQjmhJRFJlZ8lviETKBh8NrMBFgADkl4UkTogqXml0wLZpa1gkYX0vEEp+YMCFxMIKhJDKIj+JDmHjSHCVDh3B6dCQwr68VAcUGJQigtyJQwGTZYUC6dCvDgfK7SAgw2BYJBzUQLYGgsIaWDcUBnIigDgwngMDZNU4WfDVOQKJTAWr1QrAUoVBY9FnNWAAayQ1RwG2sROIphwwzcjBYvA2lJq3FWHFgCqhS2ikGYiH4-R4BmIVAIlPsRPKdPmXVAAGUZqC2ATLFQsC4yvSxJBlKcCAA1HClUAAXlAAG8xKBIrskAAuUAAIhTaaTYYAEswvOZjAARJD8WAGNBlCwmEs0XOICyoYslsYMDgd0iEEu9qRYJjEcCwKTFyDmWliAC+-vjidAAC0sFgyZmc6I86gC4O9wfu72pWwlyukL22agygAhQjaFXBBhVpBCAAUACUxakAwOBlOum4JsmlAAF4ZtmvZniwg4pqg8EAMIcMK8jXie5rSveq74c+b4fl+P5-hwQEgWBEGiBuDKiFuBAAOI4LBEIIcep7nqWaGYdhkK4T2+FykRj74YYABW5HBliAAKWAmCYEyoDRoCgeBkFMSxQY8iwliZoh+HIUWpaBgZEJ4XmRxCYOrFNGgAC0oJsp6Ui-Fgcg2aASDaA6pwcIQsBMDg2gSTpcbQaArHyIo8CZuWDCgAAPru+5kulAn+rU2jBX0JhYKgAU4GGC4MJ+ACCL7BCspz-mKCXFlV5grMoAA8WZ+QFDBBSFYURZID5rgAfMBml0f6wAAFQzaAAACtQ-P5ejqqAznxMiyIIIQ1R7aQ4UEDNwBiHlBUEEVJWQGVOi-P4wLBu0TCwBpWn0WIV2lWGlDkIoqZrQASkgQqQo18VKMWcXirAADaAC6gEmXmmqgP+LhIKx5SvU1SiAUjPF5qAEgAKqFDYVIbMiZr3HItrvA6NQML2eaeM66RHAe1TJOYKos0S92wI9y7OC9QH800+TmKgvaMb2Eh1eFKqgl4PBGtwhjUBAW2oCqSQEMSnSs2AYQvlwqJcrobLOQgyjOVbBC7T41r4aj6NNE20o4xDsD48jRPPGjRyFDwt7oPyoC477-tEwRbABKR76ft+v4AYB-OMXmcv4RIADqSDqAQHbsFtlTctE-SJKJxv0PIXOoNAPDIJIDApWUmp2NoB6QL2bsYwAor1CnBaF4XgzDfuE3mFXVbV9Xjwl6f4Yx2cSAA8gA0nQ0LwNTCTtiaPq1EkeJXMSjdEqbHpBAsGG6tqiT3PgpjFd9hSaNhgy4uFVyJPqZJcFtM0BADANALCOMfI4TBTj6iQAAfggDAeA2EGAqneCtaYbkIRlW8LwZ0lImg3yYhILG5RuRYE-EEeSoZ0DWAjFGcwMYgA)
+
+Прикольно. Код трогать нельзя, можно только внизу дописать что-то.
+
+Вот так получилось:
+
+```typescript
+type God = { god: true };
+function areGods(ghosts: Array<Ghosts | God>): ghosts is God[] {
+  return !!ghosts.length && ghosts.reduce((res, v) => res && !!(v as God).god, true);
+}
+ 
+type Demon = Extract<Ghosts, { demon: true }>;
+function areDemons(ghosts: Ghosts[]): ghosts is Demon[] {
+  return !!ghosts.length && ghosts.reduce((res, v) => res && !!(v as Demon).demon, true);
+}
+ 
+type Ectoplasmic = Parameters<typeof shockAndTrap>[0][number];
+function areEctoPlasmic(ghosts: Array<Ghosts | Ectoplasmic>): ghosts is Ectoplasmic[] {
+  return !!ghosts.length && ghosts.reduce((res, v) => res && !!(v as Ectoplasmic).ectoplasmic, true);
+}
+```
+
+### Day 3 Challenges
+#### [Beginner/Learner Challenge](https://www.typescriptlang.org/play?#code/PTAEE0HsFcHIDcCmoBGjEDtQGt0AcBLDAc1AENQATAsgJwE9RIAzUemW0AF1oIGNsTTj0RkuAKBChaiAM7QANl1mhmkTu2idZIxFwA03ABaJGxTIlpkFCxs2sLQRLpFCSwXIzOR8xiYuoEcgBc3DJisoY8-NgqZBiUoBiQALSyRpAA7rIAdOLuoADC8WwwoAC2ZLjG3tz0eHKgmUb8RqC+WJRyfLxoTMwFnnLIMvJKsgD8+XyQGDphosqgALygANrioKAA3qAKkL5cBLOhAEQAEjCyyACMp4ajilxnImL3C2Khux2U9GcAMscsAAhOinUAAX0h+k2Oz2BzEQLOl2g11AAGZ3o8lC9wlx3q9nnCfn9QKcALJ0FSg2jgqEQmFbXb7Q5IskotEAFixcieuMWBLxX1QVUQlDOhUgkGwQVk7xJZwASuhrrA5ZDIeIALrTWbzaICFSrDZM+Gsk7sq7IABMPLGRNOBuwgpiZ0pxH4dMZcJZiItFytoAA7Ha+WSnS6BGcAMpaPC8a6UOna3VzLhJSDRjLZFbrWHMhFHf0c5AANlDOLJyTS2eTOoKADkssYxKVoKAjGQkMZkFx6nJDB02xVRT3ygVkunKNA8Ap+H5QLBfUWMLByAlF9iuGuUIxUURSAUKNAMEDVOpN7ylGv4okKBhEJknBguJZrnwV3UGlMgA)
+
+Ужасно написанное задание. Я вообще не то сделал, что они ожидали. И посмотрел на решения других людей: похоже, что ВСЕ сделали не то.
+
+#### [Intermediate/Advanced Challenge](https://www.typescriptlang.org/play?#code/PTAEE0HsFcHIDcCmoBGjEDtQGt0AcBLDAc1AENQATAsgJwE9RIAzUemW0AF1oIGNsTTj0RkuAKBChaiAM7QANl1mhmkTu2idZIxFwA03ABaJGxTIlpkFCxs2sLQRLpFCSwXIzOR8xiYuoEcgBc3DJisoY8-NgqZBiUoBiQALSyRpAA7rIAdOLuoADC8WwwoAC2ZLjG3tz0eHKgmUb8RqC+WJRyfLxoTMwFnnLIMvJKsgD8+XyQGDphosqgALygANrioKAA3qAKkL5cBLOhAEQAEjCyyACMp4ajilxnImL3C2Khux2U9GcAMscsAAhOinUAAX0h+k2Oz2BzEQLOl2g11AAGZ3o8lC9wlx3q9nnCfn9QKcALJ0FSg2jgqEQmFbXb7Q5IskotEAFixcieuMWBLxX1QVUQlDOhUgkGwQVk7xJZwASuhrrA5ZDIeIALrTWbzaICFSrDZM+Gsk7sq7IABMPLGRNOBuwgpiZ0pxH4dMZcJZiItFytoAA7Ha+WSnS6BGcAMpaPC8a6UOna3VzLhJSDRjLZFbrWHMhFHf0c5AANlDOLJyTS2eTOoKADkssYxKVoKAjGQkMZkFx6nJDB02xVRT3ygVkunKNA8Ap+H5QLBfUWMLByAlF9iuGuUIxUURSAUKNAMEDVOpN7ylGv4okKBhEJknBguJZrnwV3UGlMgA)
+
+
+А тут как-то всё слишком просто
+```typescript
+type TrunkOrTreatResults = {
+  [key in typeof trunkOrTreatSpots[number]]: {
+    done: boolean,
+    who: string,
+    loot: Record<string, any>
+  }
+}
+```
+
+### Day 4 Challenges
+#### [Beginner/Learner Challenge](https://www.typescriptlang.org/play?#code/PTAEDkHsFpIOwKagNZ0gdwM6nQCwIYAuoAltgOaQlzmjwA0oARgK7ECekLohu1yoTiwBOOSMOQAHADb4AxkgBQIUtgIs4hBABNm7UPlCTI0rcPIIyhAHSgAksWTVthzCznJM15WB+gAmlyikEwAVghyhNjICAiSoBaEhNS0cgQ0OswIfHC6vEiYCoiY9H6YhJDxvGSgAGbCkAC2oASSkghwKXqgjfhONIJBdGERUaDCCPja8NLsfhWg5ZU8fNiYxpDI+kzZ+ABuJOLeioTs7aAASqPi+gC8oADeiqDjkE2YAFyXb40A2gC6z1AaDICE+Bjg7ABigAvooTmckBcfqB7k8XnB8I0EF9ysIUkDpuJwXAWI0dsIgehnBgSWSKUDyLhIOUAPxffCQ2Hwvy4JKSD4gdDC6waBAADxk+GoOnKLFqtWsciawAA4szyphoJztNAAArpCqNTDAABiWK4WoAEvgNFpdVbLWDtbl9bIFFqAKKSdDiXjQCaRG7WPmNaSKZVwcqgOK+4S8K5B4R3R5AlR8wiST4gWN+5nSbSBirJ6zicii5DAXPx3CwAsB67JuvaYAHTAkQitkjxlj4aTQCoiYBAhrvL6-IEvB7ArE40AAIk9mmEnIUoBt0mk88YROE4IArIxqblaV8AEygGGlF5TmfYr7zgAquCQAGkO2kOtvQLvwWejzSWBfAAzJe143tOmL3guer4MI0hBN+v7ngBJ5AaAoFXpOjx3nOT4vhAIiYAgyZIW8e4oTggHgph4G3lBeHPkgACCSQkHIZHEpRx7TOhACMYHYZBs4PkxoAAMqECw2jsJxFGgP+VFoX+gk3jhDEPgAsvg5QkaAABCOijo0cngnxqG8eCAAsqkQbhD6GYWKJnqZ3HUSBl5AoCcLwioz41Mq2gFMyLAFqAci2sR4VNJIJDSHpJENHuii1BokSHHALS2poAAURY3F8ibFuwACUqYvJG0bGai4yNuw1jGZgvzabw1i1Ah4g5S1uANTqTQ5WVABUtVJvVjXWPFNC8CV-wANwjj81hMiyxBovZC4APJhQAUggCoTLJnlwkAA)
+
+Просто добавить константности...
+
+```typescript
+type Room = Readonly<{
+  name: string
+  doors: number
+  windows: number
+  ghost?: any
+}>
+```
+
+#### [Intermediate/Advanced Challenge](https://www.typescriptlang.org/play?ts=4.1.0-beta#code/PTAEE0HsFdQc0gF1AJ0gBwKYBNQEsA7RSURAC01AGNpFMBnZMgQwBtXIB3TTA6yALZZEeEZAIAaUACto2OITgAoEKGyQ4cAJ6gW7Ljz7D+jaAIahmycpWYEC0NqHTMUzbJgB0oJUo9VWV0oAM2gCKjE+fzwPAHVCAkwUAAoAIxQebAAuUEYURSkqSFNzHLzFAEocgG9QAmZS3MR8gjgpADcYzEgy5sVQAF8lTkJ1Tk9ouISk0ABeXMFuxIBRVnpMABFMKi76X1UAeTIpZgjHdh0tGDUYggByZABaBfNxSkw1ygRrEnVSClAoT4qVEnjBKjAABUyDA4GRQFdYFQ7KBOFYqPDRKBxKAAF6QQQ5MiIRDoLIgTiUzzEIQAa0I9HoAEdHBl1HAUGFPEUBMA9BxuLx9mAAJIERiYdxSRF3dqUVKGSz0Wk4UgkCisdCkNisHTQLXMXJFDKpSCuXCQYL-SgCYrICHODDQQIoEyIMwWU7G7D9YjW0C2xiO9DO1ygdKZejeKDQWXy6B4ViIB0wZCGll4Ki0-BCViYcxEKx4HEKgVSVK0fDIDjreikLRYfAEYKQFACIviTzC0AAOS4-qKRAYyDwdcgcpQ0uuwR4rCrdzriNd2FoOj9GWCp2IrvIo4dRQ8atQmEQzEI9cbhBbbY7fGeMrluklKFw5Cs-oALJ4AIzhk+GwgAjkBgHXoRZd1aVEyEzeENXQOsRnIC9+nKSD2wIPAQ0CSIuyUQcgwjHA63mABtAAiAAJGACGwMjQCkMiAGFWwUOiGIABUWNwMLsMiAF0lX4cVk3w5AihKCxSLI9izHQekCDY0BKKQUANg0RSyIAITMVI81ATSeH4wTRN8IEImLPhTwuTisNceJ7CSehkgAfUI7B6ByRAG26K03PoKRnPE91zA8i8fLdD16AqUBqiUUAhKDEYHJQUKACVtlbbAAB5ULaSwCC0AA+OYYqGOLAVbUBklE8MMlVS1QFcur3Oi2L4vi68qpqoKPWxK1ArtSLWvK9qEpHXB5gAAwAEmqNyBkeWaevMAZJupSAABkDBQRjmHWZIKhG9qksSFKSJiAT5kmTB7NOtJmsKQbzEO0ahnisr4oyd0UD4E7HKUMrVBjagUU5SzoLrTAAA8GnQPTz0ymY-XWShOBYawAXoFhGwamw1CsQ0OEgWk61YPAVXLWgHTxjJ6GdZARnYXRmEfFUtAQ6CMUsDJQAFJJkXWXBOswCcdAEPAob62rMny3BlswKQvDgLJu1i1RRrImEwmwR4QzpQgyJqMFPAGCQHQ1rWaMeGFkHZQ2YuN03zfazXqJ1isBF0+VDKNsEnfVl3jQUXXZPk+3qkd534uNh0ypqv6UpKqzdRs0MUFuxz7sjR6JKivDxDAvNPA4OBkgTvOHXYvba2GaYztd7WQ-1hS+M8epzG7ABlLXWCFs9WFr5L6HIvW5MIJux5bzxOg8SAu-QSBEySPBgkzUhMLrUsuBV3xd733fVG-HJoVHcME17sdgitLo9sBNABHxnQAGYpDRmCz8TdypfQDJOhgOtsDMHZmqOe+9VAACZj4AjwLmfMvBTyRFRImOcGQMw8xRJNPak1sQ7k4CQNge1KYM1EPCMCHcA6olbNmREIMjCuBEDqHQq8aL5XyvQbgKB9571UAAWTPAQXUMhoBBncD6SC6YExZhzHDOBhZIhSDAv8d8NDkR8DBv6fckBDzMFNI+RCWs0zODQF7AQO8zKILIUsTAqx1hbB2B4JyTVMi9BaHlAaEkXGVBqHUBomBPGtA6F0HoTRXGDDau1IGDAThMxsOsNQGg6wsEfIaduqNOaYjrLIERT4oYHi8GCZmZAjo1TgLwVKdgKLQxKskegeBcR+LqDpJI0VZjFRIsbAAgigNwWgal1MwBUVu7Z0DJAOnMYqfDyCeGCETFIkyyCeG4uoAQYyABUoBvwADYKjrU7n0VoyQtkVB2dIReBBkh3DuBUAA3EdL60AfoxSOqNVJORSkEHKQQSpUNkjbLNqNUaM9uhvLKRU6GvyXrtSGAMIAA)
+
+Не знаю, как это сделать на 4.1, сделал на текущем TS
+
+```typescript
+const winners = {} as { [keys in Lowercase<`${typeof breeds[number]}-${typeof costumes[number]}`> ]: ReturnType<typeof decideWinner> }
+... 
+const id = `${breed}-${costume}`.toLowerCase() as Lowercase<`${typeof breed}-${typeof costume}`>
+```
+
+Посмотрел авторское решение: оказывается в 4.1 этот интринсик назывался "lowercase". С маленькой буквы и без стрелочек
+
+### Day 5 Challenges
+#### [Beginner/Learner Challenge](https://www.typescriptlang.org/play?#code/PTAEHUFNQCwQwG7TqAzpALqA9gM1tgK7qo4B2oKqGATpJqAO4wCWAxjAFAigDmLSUkSxs4ZACYBPShJxtRqFtjJwANqull640nQC01bGwDWLMrwB0nbmAAqrUi1JjK8wjTgZodAA510ZBieShR4oBgw0DBEJDagAEaEWBGQdADkzqCq2Fhh4oQ+quyekOKgbNji0GawqZAANDJlcZJETGLJ2OV0JZThkj7QzOww5USqZb7+kIGgcWLS0cSQVnEAkljZ2MakRcbQKeQa4azmTKwc5fDmkKTxmIz0ZHFLJKBOJ96Y7hQIaoTQMIAA1o7GMAHkaLYehggU04odcCwaNRQD44B4ALaYVI4fBA-wYIzGIEWOZxADCLlahFAyz6vBmqXY-UG4S6mLg+z6QIAEjFIHCMANoHFhpd4JlFOZVMgaLxCNjZrhsDRPqA6BgfqA-qoAXMeMDQSZIdDIJ44WIyod0Vj2aACbciSYgQB+azCtkAMWR1H59IAvKAAN6cUCgcTYVUAOUV9xoAC5QABGADcYfCNDBpphAAoAJRJgBE8SjxiLoAAPqAi6IJJIi+nw4TibmWF5Mahi6XthXq7WrQ3CzrsCxxOmAL7pzie6AAZUgFQk-vQoCDofDkZjcdSSYATE3M9moXnh0WiTkYPEaMQYH2a5izBhUI2My2TG2O12axeItfb-eRaPoEL7Dggo7jpwU4eiKoD2Mi4grtA64ZluNCxpi8ZJgAzIexoQie5oYAWxZ1lIgFwD4hSQIBkZkEkL6Hu+xifpAnakYOFFUbKtHKAxRZgRBk7TrOoBekQNAREha4hqhUboTuiagAALHhWYmoRngkTWZENlWNaoD4ZbSIZY6pIxb5Oq27Zsd+A71oBhnGWgPhmSiAlJuBY7CTBbJzrQ9BYEGADaPoohgSGNAuS6IQKjTwTQsXLI04nuFJAoALrpkAA)
+
+Тут добавил дженерик с указанием изменяющихся параметров:
+
+```typescript
+type House<N, T> = {
+  doorNumber: N;
+  trickOrTreat(): T;
+  restock(items: T): void;
+}
+``` 
+Применять его так:
+
+```typescript
+type FirstHouse = House<1, "book" | "candy">;
+type SecondHouse = House<2, "toothbrush" | "mints">;
+...
+```
+
+#### [Intermediate/Advanced Challenge](https://www.typescriptlang.org/play?ts=4.1.0-beta#code/PTAEE0HsFcHICcCmoAOBDeAXUkBmo1RNE0BbUAZwGMALRAE2gBsBLAOwHMDRTIA3FsjYsONTABpQAI2jYKkUokhtkaKlRb1EbTGiZMAngCgQoKsoqbESekTo9+g0ACIAKvYByIsaQzIAQoi4kEigAMI08CwUmL4UzkSQ0qqgNHpMkADuiNqgJmC8AoiSmTQstKAs2EjpBpUUbLCYAHRGRuZsMQ5FFK6QAMo0WaAAvKAA3kagqelZOWwAXBOgwfAA0poUS7h6FMgAvuJToMKisX4A8mwAokyk-ZhIiJhL4yshG-RbK7sHR9NDKjQCgABUgQO+b1Wn2+j2gf2OmDoAHUQjFkVVaK93utNks4QjphQmDkUAYABKQfRZbHQvE-Jh7UD7Iz7AgUMwWTBtUzuRB1DiQbBoTJoOqZKo0OzRIjwNB8RAxOpSRBUNDA5AGGAzBWUBTIAAGaDYBgNHPYdmQ+U5WikaCZqzMNUw7C4SOQ1DojBJ8GaoAAgmxQBc1mZ0jjuLgWPAuugKBRJDJuaZsggPWkopwbcgJUicO6YwQ2LZRTpEslQIgAB4oVgaFptXDQNhUF3KHhoADWiH6tAYzGsAApCoJYQYUEp8CPFX1BlkAJRLY11SbTDpdT39kmjCZs+1F4zTR2D9fYaeVIMXKQAK1VLW7Bgow8civn84mxzXXLDKCqeg8ZDIGM07NLQGD+pgg4AAzzs0mCQAAqigE7wGE9qIIO74ANTdIIzTEuUGEAIzzgA3G00xEn23qIAA2gaHDPAAauS-QAGIhAAJOMaq-roTAAYo+wGgAujumGjAAfLun6UNRA70b43Zgig5jwGwHHwNxvF-gJgHCWJYwSSM0njCylFyV6CkGrWYraWgfH-vponie+JkydMLLHEgmDQOpllbogrI8mAYTOoq3CbjR8DtN+05eGcO5KT28k+s+PSzkMmTziFoB8kG4bug6zatiwFgEKE6rwb4LpqvodRUOFthGPF3gtIxmAsexITkrM2TaJhLUvglYjNMlKlqRpPV9fMg2tWczS2RSM0DTl1oeEK3BpNS-VBtOACEeVlByFBDMwtgqtw5ikL+PqVvA8AhENRQje1zGsZpr2+EggSrIgERRDEcRzcNbVjV2iATSEU3wF9fi-SE-2RNE5xPjl82jUtcM-UEiMAyjwNrRjb2dR9PXgsCHEQiDL1g+NkCqdDmmUhCYLU+joMLUtLPAmzwKDW01r9CgkAsD6HLGrY6BYKAABMOD4EiMpgfo2iMRVyAqhkmSC7rgumGETDwqARF+u4yvbSSnCa9AYtfAriv2Ew9rYMoxSgKU5RSjIdscnguDWu6oDO10buSM8VDNFHeu6wbRvILLZt0EyMSZhwhhEOODArCVbZBmwgEcmqQYoI9dpSBnl1pMWJLNSmkrcComQrCQvmhLgj3kK4We9lEKDYAALM0RExzHpgAFTjyCGDYJgmSQJPuVQNAOrIEH5haOWIQcMaLAAF5r-YFCAQFNGJrIHsN8oGedpsuGKq0pgAJKYLAF3IBwzqVPgWor+Y50EGQhnIOx9FCZwnByAAtNIC+19xR0AKvfa0aQOQqlyFoKgzsbDlkuoQW+9sQKCybC2POHZuyfF7FZNK04xwTjwPfXoAwsqLgPB+L8nQ5CpSArudkB5jjHlPPfC8wYbx3maA+J8NC3xsMoqYAAApgCgkCRBsERrJFg+B0qjkylkWi04RLNDpF8d8q4LKcg4T+XSgluEgTAvACC0FYLwSQihNCewJI4RAgRKgxEyIUTMVFayHUuqaXso5PSQkXJGTcqZcyASuGKQhlDdSoSeIOSsc5QyoBjKxNklRKhdEbLOwMGEjJkSsk5I8pROJXlpg+T8kGQJJJgrWnyh7BBHtkBpF1MaHAojWztK9qADUHIipryzhQWKFj8EUAALKczEElCGFCuHwC0TOJhC5cpzgATsMWRgZnzNpgtYJZN4C9R2rNHKhyFktG5itNgAtTA7KYFLe0kybnHNGqc7q5yKYUCpvza5mwjmCFeuDZSDNJrM3+XzNGByQW3MWsUnmoJ-kC31mAYWos7qYPhKgxA2tR7WlNhAbUxdQBIEgRqUAv94BEEQDdZ2xBg5VGsHocBipz7YF-icHIthCBNw7MhbOmAs6tGJdaROoA2LsHoK6S0lK2qUBFtgR0dLzHyrzhymUjxyidgMNyy0lUkCNFnpAJIvgTSoEgJYPOkzTCUVKNYTU5Lek0vdKQCVxLTAAGY-TLw7HUFQoqkgOVrHUNA9AtVlQLkwcxjw0DsEUeWDVvgRW2DFROFYndFVRhjK7FQRggA)
+
+Тоже шаблонные литералы, и тоже интринсик. Сделал на современном:
+
+```typescript
+type CapitalName = `${Capitalize<keyof typeof moviesToShow>}`;
+function makeScheduler(movies: typeof moviesToShow) {
+  const schedule = {} as Record<`${'getVHSFor' | 'makePopcornFor' | 'play'}${CapitalName}`, () => void>
+  for (const movie in Object.keys(movies)) {
+    const capitalName = movie.charAt(0).toUpperCase() + movie.slice(1) as CapitalName ;
+``` 
