@@ -18,7 +18,7 @@ example.com.		5678	IN	A	93.184.216.34
 
 dig добавил точку в конец example.com, и теперь это "example.com."! Но зачем?
 
-И некоторые DNS-утилиты требуют указания точки в конце домена. Если попытаться передать "example.com" в miekg/dns будет ошибка:
+А некоторые DNS-утилиты требуют указания точки в конце домена. Если попытаться передать "example.com" в miekg/dns будет ошибка:
 
 ```s
 // trying to send this message will return an error
