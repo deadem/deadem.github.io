@@ -23,17 +23,13 @@ struct group_info init_groups = { .usage = ATOMIC_INIT(2) };
 struct group_info *groups_alloc(int gidsetsize){
     struct group_info *group_info;
     int nblocks;
-    int i;
-
-    nblocks = (gidsetsize + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER_BLOCK;
-    /* Make sure we always allocate at least one indirect block pointer */
-    nblocks = nblocks ? : 1;
-    group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);
 ```
 
 Для описания структур в Линуксе приняты [правила форматирования кода, основанные на K&R](https://en.wikipedia.org/wiki/Indentation_style#Variant:_Linux_kernel), и они никак не позволяют написать такую строку: `struct group_info *groups_alloc(int gidsetsize){`
 
-На самом деле, это код с сайта [hackertyper.com](https://hackertyper.com/) (и его аналог: [hackertyper.net](https://hackertyper.net/)) - почувствуй себя киношным хакером. Если просто долбить по клавиатуре, то будет довольно быстро печататься этот фрагмент кода из Линукса, а если несколько раз нажать на CAPS LOCK, то загорится надпись:
+Если в поиск вбить уже "неправильный" вариант, то концы приводят к сайту [hackertyper.com](https://hackertyper.com/) (и его аналог: [hackertyper.net](https://hackertyper.net/)) - почувствуй себя киношным хакером. 
+
+Настоятельно рекомендую зайти на какой-нибудь из них и попробовать понажимать кнопки на клавиатуре: будет довольно быстро печататься "хакерский код" (на самом деле - этот самый кусочек из Линукса), а если несколько раз нажать на CAPS LOCK, то ещё и загорится надпись:
 
 ![](/images/invincible-code-03.webp)
 
