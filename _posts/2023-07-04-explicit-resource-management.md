@@ -5,7 +5,7 @@ date:   2023-07-04 00:00:00 -0400
 categories: [js, code]
 ---
 
-В JS появится, наконец, [штуковина для управления временем жизни ресурсов](https://github.com/tc39/proposal-explicit-resource-management).
+В JS появится, наконец, [штуковина для управления временем жизни ресурсов](https://github.com/tc39/proposal-explicit-resource-management). Позволит делать что-то вроде деструкторов.
 
 Какую проблему решаем?
 
