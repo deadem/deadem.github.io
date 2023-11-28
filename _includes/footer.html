@@ -11,8 +11,6 @@
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
-            {%- else -%}
-<!--              {{ site.title | escape }} -->
             {%- endif -%}
             </li>
             {%- if site.email -%}
@@ -26,9 +24,9 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>{{- site.description | escape -}}&nbsp;<a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
       </div>
-    </div>
 
+    </div>
   </div>
 </footer>

@@ -1,1 +1,2 @@
-bundle exec jekyll serve --force_polling --host=0.0.0.0 #
+# export JEKYLL_ENV=development
+bundle exec jekyll serve --force_polling --host=0.0.0.0 --limit_posts=1 # --incremental --profile

@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+#feed:
+#  disable_in_development: true
+
+paginate: 30
+
 disqus:
   shortname: deadem
   

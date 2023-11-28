@@ -3,21 +3,27 @@ layout: default
 ---
 
 <div class="home">
-
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+    {% for post in paginator.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+    </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
+  <p class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Позже</a>
+      &nbsp;
+    {% endif %}
 
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Раньше</a>
+    {% endif %}
+  </p>
 </div>
