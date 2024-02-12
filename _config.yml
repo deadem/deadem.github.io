@@ -41,6 +41,9 @@ disqus:
   shortname: deadem
   
 google_analytics: UA-365229-4
+
+sass:
+  quiet_deps: true
     
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
