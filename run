@@ -1,2 +1,3 @@
 # export JEKYLL_ENV=development
-bundle exec jekyll serve --force_polling --host=0.0.0.0 --limit_posts=1 # --incremental --profile
+ADDRESS=`ip -br address | awk '{print $3}' | grep -vE '^127\.' | grep -oE '([0-9]{1,3}\.){3}[0-9]{1,3}'`
+bundle exec jekyll serve --force_polling --host=$ADDRESS --limit_posts=1 # --incremental --profile
