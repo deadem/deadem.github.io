@@ -28,9 +28,10 @@ github_username:  deadem
 # Build settings
 #future: true
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 #feed:
 #  disable_in_development: true
