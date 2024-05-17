@@ -40,7 +40,7 @@ paginate: 30
 disqus:
   shortname: deadem
   
-google_analytics: 365501713
+google_analytics: G-9SV737MBBS
 
 sass:
   quiet_deps: true
