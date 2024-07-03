@@ -5,7 +5,7 @@ date:   2024-07-03 0:00:00
 categories: [code, js]
 ---
 
-В начале 2024 в js завезли удобный хелпер: при работе с промисами, которые нужно контролировать снаружи, теперь можно не городить внешние переменные и перекладывать в них колбеки. Теперь есть `Promise.withResolvers`:
+В начале 2024 в js завезли удобный хелпер: при работе с промисами, которые нужно контролировать снаружи, теперь можно не городить внешние переменные и перекладывать в них колбеки. Теперь есть [`Promise.withResolvers`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/withResolvers):
 
 ```js
 const { promise, resolve, reject } = Promise.withResolvers();
