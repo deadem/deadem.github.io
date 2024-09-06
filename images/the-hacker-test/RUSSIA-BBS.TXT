@@ -1,0 +1,467 @@
+
+ The official +7 area BBS list by MikDim s/h company, Mikel Lavrentyev
+ Version 90 from 09-09-92 09:44pm
+ Please, send your comments, infomations and updates to:
+ Fidonet:      2:5020/35
+ Internet:     mikel@dialnet.msk.su
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄ¿
+³ BBS name                  ³ data phone   ³ modem              ³ Working time, Msw ³ SysOp name         ³Fido address³ Voice  ³
+³                           ³              ³ speed/type/ECP     ³ weekday    weekend³                    ³ in Zone 2: ³ phone  ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşş Moscow Russia ³ 095-xxx-xxxx ³                    ³ local time is +0h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³                           ³              ³                    ³             ³     ³                    ³ region 50Ä´³        ³
+³                           ³              ³                    ³             ³     ³                    ³ host 5020¿³³        ³
+³ Nightmare BBS             ³ -mail-only-- ³ 2400/MNP           ³ 22:00-10:00 ³ <<< ³ Farid Vagapov      ³ 5020/1ÄÄÄÙ³³        ³
+³ Moscow Fair               ³ 095-366-5209 ³ 9600/MNP/V29       ³ 24h         ³ 24h ³ Alexey Zabrodin    ³ 5020/3    ³³        ³
+³ MostNet 2                 ³ 095-943-0039 ³ 2400/MNP           ³ 24h         ³ 24h ³ Pavel Galyamin     ³ 5020/4    ³³196-8988³
+³ JV Dialogue 1st BBS #1    ³ 095-329-2192 ³ 14400/MNP/V32B/HST ³ 24h         ³ 24h ³ Pete Kvitek        ³ 5020/6ÄÄÄÄÙ³328-1327³
+³ JV Dialogue 1st BBS #2    ³ 095-329-5133 ³ 9600/MNP/V32/V42B  ³ 21:00-09:00 ³ 24h ³ Pete Kvitek        ³ 5020/5     ³328-1327³
+³ Alan BBS                  ³ 095-532-2943 ³ 9600/MNP/V32/V42B  ³ 22:00-08:00 ³ <<< ³ Alexander Yashin   ³ 5020/11    ³531-8230³
+³ UniR BBS                  ³ -mail-only-- ³ 2400/only_MNP      ³ 00:00-07:00 ³ <<< ³ Sergey Mansurov    ³ 5020/12    ³        ³
+³ Do-mail! BBS              ³ 095-939-1669 ³ 9600/V32B/V42B     ³ 21:00-09:00 ³ 24h ³Aleksandr Scherbakov³ 5020/13 (?)³the same³
+³ Blue House BBS            ³ 095-932-6410 ³ 2400/MNP           ³ 24h         ³ 24h ³ Dmitry Popov       ³            ³932-6051³
+³ Metal Heart of Weilus     ³ 095-318-6582 ³ 2400/MNP           ³ 20:00-09:00 ³ 24h ³ Ilya Suslov        ³ 5020/15    ³318-3138³
+³ Data Board BBS            ³ 095-326-5888 ³ 2400/MNP           ³ 24h         ³ 24h ³ Serg Khan          ³ 5020/16    ³        ³
+³ Soft Parade System        ³ 095-151-5931 ³ 2400/MNP           ³ 21:00-09:00 ³ 24h ³ Vladimir Yablonsky ³ 5020/17    ³        ³
+³ PCC BBS                   ³ 095-461-1378 ³ 9600/MNP/V32/V42B  ³ 22:00-08:00 ³ 24h ³ Mike Holodov       ³ 5020/18    ³465-7003³
+³ UNEVO Centre's BBS        ³ ----down---- ³ 2400               ³ 24h         ³ 24h ³ Mike Pavlov        ³ 5020/19    ³129-2790³
+³ XtalK BBS                 ³ 095-367-5545 ³ 1200               ³ 22:00-09:00 ³ 24h ³ Gregory Nickonov   ³ 5020/20    ³430-0535³
+³ White Bear BBS (mail)     ³ -mail--only- ³ 9600/MNP/H96/V42B  ³ 24h         ³ 24h ³ Maxim Medvedev     ³ 5020/22    ³437-5215³
+³ White Bear BBS (4 lines)  ³ 095-932-8465 ³ 2400/MNP           ³ 24h         ³ 24h ³ Maxim Medvedev     ³ 5020/22    ³437-5215³
+³ Iron Doors BBS            ³ 095-465-6610 ³ 9600/MNP/V32B/V42B ³ 24h         ³ 24h ³ Alex Snegirev      ³ 5020/24    ³463-7828³
+³ MedInfoPro                ³ -mail--only- ³ 9600/MNP/V32       ³ 24h         ³ 24h ³ Grigory Stepanov   ³ 5020/25    ³296-8827³
+³ Red Rat's Nest            ³ -mail--only- ³ 19200/MNP/PEP      ³ 03:00-12:00 ³ <<< ³ Alex Young         ³ 5020/26    ³        ³
+³ Black Metal               ³ 095-150-8500 ³ 2400               ³ 24h         ³ 24h ³ Anton Pankov       ³ 5020/27    ³150-8416³
+³ INPRO BBS                 ³ 095-924-5797 ³ 2400/MNP/V42B      ³ 19:00-10:00 ³ 24h ³ Izotov Maxim       ³ 5020/28    ³        ³
+³ Koza Nostra BBS           ³ 095-337-5352 ³ 2400/MNP/V42B      ³ 23:00-10:30 ³ <<< ³ Ivan Ryabov        ³ 5020/30    ³the same³
+> Blue Bottle               ³ 095-187-2659 ³ 2400/MNP           ³ 23:00-10:00 ³ <<< ³ Vova Korolov       ³ 5020/33    ³the same³
+³ Vita BBS                  ³ 095-129-1744 ³ 2400               ³ 23:30-09:00 ³ <<< ³ Dmitriy Ablov      ³ 5020/34    ³        ³
+³ MikDim s/h company        ³ -mail--only- ³ 2400/MNP           ³ 00:00-08:00 ³ <<< ³ Mikel Lavrentyev   ³ 5020/35    ³312-3052³
+³ Non-stop BBS              ³ -mail--only- ³ 2400               ³ 21:00-08:00 ³ <<< ³ Serg Fomenko       ³ 5020/36    ³        ³
+³ Wolf the Grey BBS         ³ 095-152-4398 ³ 2400/MNP           ³ 12:00-08:00 ³ 24h ³ Koctya Boyko       ³ 5020/37    ³152-3644³
+³ Little Star BBS           ³ 095-250-1964 ³ 2400/MNP           ³ 20:00-09:00 ³ 24h ³ Mike Rogalsky      ³ 5020/38    ³the same³
+³ Time Machine              ³ 095-202-5385 ³ 2400               ³ 21:00-07:00 ³ 24h ³ Stars Kalianov     ³ 5020/39    ³291-6426³
+³ Square Wheel BBS          ³ 095-238-5098 ³ 2400/MNP           ³ 24h         ³ 24h ³ Constance Kuznetsov³ 5020/41    ³239-1849³
+³ Chip'n'Dale       (line 1)³ 095-202-4852 ³ 14400/HST/V32B/V42B³ 00:00-08:00 ³ <<< ³ Serge Korotovskih  ³ 5020/42    ³        ³
+³ Chip'n'Dale       (line 2)³ 095-202-4863 ³ 2400/MNP           ³ 00:00-08:00 ³ <<< ³ Serge Korotovskih  ³ 5020/42    ³        ³
+³ Sails BBS #1              ³ 095-261-5103 ³ 2400/MNP/V42B      ³ 18:30-09:00 ³ 24h ³ Sergey Kalmykow    ³ 5020/45    ³        ³
+³ GreenSoft Private BBS     ³ -mail--only- ³ 2400/MNP           ³ 18:30-08:30 ³ 24h ³ Vladimir Vladov    ³ 5020/46    ³the same³
+³ SOS                       ³ -mail--only- ³ 2400               ³ 21:00-09:00 ³ <<< ³ Sergey Okhapkin    ³ 5020/47    ³the same³
+> MAX & AUTO                ³ 095-238-8459 ³ 9600/MNP/V32       ³ 23:00-10:00 ³ <<< ³ Vladimir Maksimov  ³ 5020/48    ³the same³
+³ Doctor Aybolit            ³ -mail--only- ³ 2400               ³ 24h         ³ 24h ³ Kirill Lebedew     ³ 5020/51    ³491-7008³
+³ Mister Postman            ³ 095-229-7769 ³ 2400/MNP           ³ 22:00-08:00 ³ 24h ³ Boris Tyshkiewitch ³ 5020/52    ³229-6051³
+³ Wasp System               ³ 095-938-7193 ³ 2400               ³ 24h         ³ 24h ³ Serge Wizgounoff   ³ 5020/54    ³930-8687³
+³ Business BBS #1           ³ 095-482-1044 ³ 2400               ³ 24h         ³ 24h ³ Alexey Lipovetsky  ³ 5020/58    ³        ³
+> Doors ]I[ #1              ³ 095-536-6709 ³ 2400/MNP           ³ 24h         ³ 24h ³ Mike Skulkin       ³ 5020/60    ³        ³
+> Doors ]I[ #2              ³ -mail--only- ³ 2400/MNP           ³ 21:00-09:00 ³ 24h ³                    ³            ³        ³
+³ Falcon Hill's BBS         ³ 095-365-3770 ³ 2400               ³ 24h         ³ 24h ³ Boris Fifelin      ³ 5020/63    ³365-3469³
+³ Technik's BBS             ³ -mail--only- ³ 2400/MNP/V42       ³ 01:00-08:30 ³ <<< ³ Boris Kostin       ³ 5020/64    ³the same³
+³ AstroPro BBS              ³ 095-939-8347 ³ 2400/MNP           ³ 21:00-10:00 ³ <<< ³ Igor Kuznetsov     ³ 5020/66    ³the same³
+³ JV DialogueScience BBS    ³ 095-135-6253 ³ 2400/MNP           ³ 20:00-10:00 ³ 24h ³ Boris Chernivetsky ³ 5020/69    ³137-0150³
+³ Monster's Small Station #1³ -mail--only- ³ 2400               ³ 00:00-07:00 ³ <<< ³ Harry Nikolayev    ³ 5020/75    ³the same³
+> Monster's Small Station #2³ 095-274-9104 ³ 1200               ³ 21:30-08:00 ³ --- ³ Igor Gerasimoff    ³ 5020/75.2  ³        ³
+³ Sam's BBS                 ³ 095-490-5166 ³ 2400               ³ 00:00-09:00 ³ <<< ³ Alex Samutin       ³ 5020/76    ³the same³
+> U.F.M  BBS                ³ 095-372-7444 ³ 9600/MNP/V32b/V42B ³ 23:00-09:00 ³ <<< ³ Fyodor Ustinov     ³ 5020/79    ³the same³
+³ Builder BBS               ³ 095-923-9743 ³ 2400/MNP/V42B      ³ 24h         ³ 24h ³ Dmitry Kireev      ³ 5020/82    ³924-9361³
+³ Helloween BBS             ³ 095-291-5844 ³ 2400               ³ 20:00-11:00 ³ 24h ³ Igor Golovin       ³ 5020/83    ³291-6674³
+> LTS BBS                   ³ 095-248-4664 ³ 14000/V32B/V42B    ³ 00:00-07:00 ³ <<< ³ Alexey Tumarkin    ³ 5020/85    ³the same³
+> Queen BBS                 ³ 095-166-2592 ³ 2400/MNP           ³ 24h         ³ 24h ³ Alexandr Kornew    ³ 5020/86    ³166-2591³
+> AviaBank BBS              ³ 095-207-4563 ³ 9600/MNP/V32/V42B  ³ 15:00-08:00 ³ --- ³ Dima Palatkin      ³ 5020/95    ³207-0471³
+³                           ³              ³                    ³             ³     ³ Pavel Averyanov    ³            ³207-9714³
+³ DE BBS                    ³ 095-261-9661 ³ 2400               ³ 20:30-07:30 ³ <<< ³ Dmitry Efimov      ³ 5020/102   ³263-3844³
+³ Rivendell BBS             ³ ----down---- ³ 2400               ³ 23:00-07:00 ³ <<< ³ ------------------ ³ 5020/103   ³the same³
+³ Night Director BBS #1     ³ 095-938-0081 ³ 2400/MNP           ³ 21:00-09:00 ³ 24h ³ Ivan Sinelobov     ³ 5020/104   ³938-6870³
+> Night Director BBS #2     ³ 095-938-6125 ³ 2400/MNP           ³ 22:00-08:00 ³ <<< ³ Dmitry Ostretsov   ³ 5020/104.2 ³938-1786³
+> Night Director BBS #3     ³ 095-938-6832 ³ 2400/MNP           ³ 21:00-09:00 ³ 24h ³ Vladimir Kostrukov ³            ³        ³
+³ AWAX-CBL BBS (commercial) ³ 095-931-0740 ³ 2400/MNP           ³ 24h         ³ <<< ³ Sasha Vishnevetsky ³ 5020/105   ³931-8636³
+> Strawberry Fields         ³ 095-299-9104 ³ 2400               ³ 19:00-21:00 ³ 24h ³ Oleg Filippov      ³ 5020/106   ³the same³
+³ OmniBus BBS               ³ 095-231-1720 ³ 2400               ³ 22:00-08:00 ³ 24h ³ Nick A.Skokov      ³ 5020/33.4  ³        ³
+> Designer SoftWare BBS     ³ ----down---- ³ 2400/MNP           ³ 22:00-07:00 ³ 24h ³ Vitaliy V. Titov   ³ 5020/37.6  ³182-2715³
+³ Back Panel #2             ³ 095-278-1428 ³ 2400/MNP           ³ 21:00-09:00 ³ 24h ³ Alex Melnickov     ³ 5020/33.1  ³the same³
+³ ClarioNoos BBS            ³ 095-178-3473 ³ 2400/MNP           ³ 20:00-08:00 ³ <<< ³ Dmitry Semibratov  ³ 5020/60.8  ³the same³
+³ ABN1stBBS                 ³ 095-202-9202 ³ 2400/MNP           ³ 22:00-10:00 ³ 24h ³ Andrew Nevsky      ³            ³        ³
+> ABN2ndBBS                 ³ 095-927-3990 ³ ?                  ³ 00:00-08:00 ³ <<< ³ Andrew Nevsky      ³            ³        ³
+³ Hacker's Great BBS        ³ 095-291-5023 ³ 2400/MNP           ³ 24h         ³ 24h ³ Pekshev Ilya       ³            ³291-8573³
+> Elvis BBS                 ³ 095-535-5242 ³ 2400/MNP           ³ 22:00-08:00 ³ 24h ³ Andrey Arkhipov    ³ 5020/60.3  ³532-8689³
+³ Last Chance BBS           ³ 095-333-9474 ³ 2400/MNP           ³ 19:00-10:00 ³ 24h ³ Oleg Vasiljev      ³ 5020/75.11 ³334-2470³
+³ K K K BBS                 ³ -temp-closed ³ 1200               ³ 00:00-07:00 ³ <<< ³ Konstantin Dobkin  ³            ³the same³
+³ InterLink                 ³ 095-946-8752 ³ 2400/MNP           ³ 24h         ³ 24h ³ ?                  ³            ³        ³
+³ InterLink (russian line)  ³ 095-946-8753 ³ 2400/MNP           ³ 24h         ³ 24h ³                    ³            ³        ³
+³ Solar Wind BBS            ³ 095-531-0009 ³ 2400/MNP           ³ 15:00-23:00 ³ --- ³ Const Lazareff     ³ 5020/24.19 ³        ³
+³ Exchange Trade Centre     ³ 095-406-1166 ³ 2400/MNP           ³ 22:00-09:00 ³ 24h ³ Cyril Plisko       ³            ³406-1233³
+³ Alexanders                ³ 095-924-4379 ³ 9600/MNP/V29       ³ 09:00-18:00 ³ --- ³ Alexandr Mozhejko  ³            ³298-8247³
+³ Shadow Gluck BBS          ³ 095-452-4103 ³ 1200               ³ 01:00-07:00 ³ <<< ³ Sergej Qkowlew     ³ 5020/48.4  ³the same³
+³ Bloody Andy  BBS          ³ 095-921-3197 ³ 2400               ³ 24h         ³ 24h ³ Andy Trushin       ³ 5020/48.11 ³207-2888³
+³ Raul Mini BBS             ³ 095-207-3387 ³ 2400/MNP           ³ 16:00-22:00 ³ --- ³ Raul Harlamov      ³            ³207-5972³
+³ Hobbit's BBS              ³ 095-128-6642 ³ 2400/MNP           ³ 21:00-09:00 ³ <<< ³ Frodo Baggins      ³            ³the same³
+³ Miracle BBS               ³ 095-233-7291 ³ 2400               ³ 24h         ³ --- ³ Alexander Isaev    ³ 5020/33.12 ³233-7293³
+³ Business BBS #2           ³ 095-482-1022 ³ 2400               ³ 22:00-08:00 ³ 24h ³                    ³            ³        ³
+> InfoMarket BBS            ³ -temp--down- ³ 2400               ³ 18:00-09:00 ³ <<< ³ Sergey Gradenko    ³ 5020/19.27 ³        ³
+³ Dragon Square BBS         ³ 095-930-5969 ³ 2400               ³ 22:00-09:00 ³ <<< ³ Ilya Gribow        ³ 5020/105.10³133-2010³
+> Pal Inform BBS            ³ 095-944-1361 ³ 2400/MNP           ³ 18:00-10:00 ³ 24h ³ Andrey Odegov      ³            ³the same³
+> Radio Silence BBS         ³ -temp-closed ³ 2400               ³ 19:00-09:00 ³ 24h ³ Valentine Andrianov³ 5020/106.1 ³299-9104³
+³ Green Death BBS           ³ 095-200-1551 ³ 2400               ³ 23:00-08:00 ³ 24h ³ Roma Kuzmin        ³ 5020/48.2  ³200-1551³
+³ The Crown BBS             ³ 095-261-6687 ³ 2400               ³ 20:00-08:00 ³ --- ³ Alex Barsky        ³ 5020/28.11 ³the same³
+³ ASI BBS                   ³ 095-485-5337 ³ 2400/MNP           ³ 12:00-20:00 ³ --- ³ Sergey Isakov      ³ 5020/28.5  ³485-2197³
+> Cosmopolis BBS            ³ 095-946-2502 ³ 2400               ³ 24h         ³ 24h ³ Igor Borisov       ³            ³        ³
+³ MegaDeth BBS              ³ 095-192-8849 ³ 2400/MNP/V42B      ³ 20:00-10:00 ³ 24h ³ George Gorshkov    ³ 5020/54.10 ³the same³
+³ Dialogue MGU Centre BBS   ³ 095-939-3891 ³ 2400/MNP           ³ 21:00-10:00 ³ <<< ³ Ivan Muravyev      ³            ³939-3890³
+³ JV Elecs West BBS         ³ 095-208-4190 ³ 2400               ³ 20:00-09:00 ³ 24h ³ Igor Gerasimoff    ³ 5020/75.1  ³274-9162³
+³ Telesoft BBS              ³ 095-945-5056 ³ 2400               ³ 21:00-09:00 ³ 24h ³ Mity Akulov        ³ 5020/35.18 ³945-5043³
+³ Info BBS                  ³ 095-438-7368 ³ 2400/MNP           ³ 24h         ³ 24h ³ Sergey Okhapkin    ³ 5020/47.5  ³438-4211³
+> S Half-Private BBS        ³ -temp-closed ³ 2400/MNP           ³ 22:00-10:00 ³ <<< ³ Eugene Kreewosheyew³ 5020/64.7  ³        ³
+³ Programmers' Guild BBS    ³ 095-939-1871 ³ 2400               ³ 19:00-10:00 ³ 24h ³ Alex Lamykin       ³ 5020/40.13 ³939-5726³
+³ Core BBS                  ³ 095-246-7910 ³ 2400/MNP/V42B      ³ 00:00-08:00 ³ <<< ³ Leonid Korostelev  ³            ³246-2554³
+> Kukosha BBS               ³ 095-251-3007 ³ 2400               ³ 00:00-09:00 ³ 24h ³Alexander Chernienko³ 5020/58.5  ³the same³
+³ Bytic BBS                 ³ 095-334-5781 ³ ?                  ³ 24h         ³ 24h ³ Serge Morosov      ³ 5020/30.8  ³        ³
+> Android BBS               ³ 095-535-9486 ³ 2400               ³ 24h         ³ 24h ³ Andrew Nikulin     ³ 5020/90    ³535-9431³
+³ DP Project                ³ 095-955-2946 ³ 2400/MNP           ³ 15:00-18:00 ³ <<< ³ Dmitry Peresvetov  ³ 5020/27.9  ³955-2737³
+> InfoGlasnost BBS          ³ 095-475-1792 ³ 2400               ³ 24h         ³ 24h ³ Sergey Plais       ³ 5020/63.6  ³475-8456³
+³ AP-Service BBS            ³ 095-314-7428 ³ 2400/MNP           ³ 22:00-09:00 ³ <<< ³ Alex Pelekhov      ³ 5020/24.25 ³the same³
+³ ExLink BBS                ³ 095-274-0283 ³ 2400/MNP/V42       ³ 24h         ³ 24h ³ Denegin Sergey     ³            ³274-0287³
+> Cocktail Paradise BBS     ³ 095-516-0217 ³ 2400/MNP           ³ 20:00-10:00 ³ 24h ³ Dim Timoshchenko   ³ 5020/60.5  ³516-8898³
+> Diasoft BBS               ³ 095-183-3325 ³ 2400/MNP           ³ 10:00-20:00 ³ <<< ³ Gleb Bulgakov      ³ 5020/105.26³183-0221³
+> Program Buddy BBS         ³ 095-930-8283 ³ 2400/MNP           ³ 24h         ³ 24h ³ Teplitsky Dmitry   ³ 5020/82.7  ³938-8075³
+> IST Business BBS          ³ 095-143-8725 ³ 2400/MNP           ³ 24h         ³ 24h ³ Albert Zakirov     ³            ³        ³
+> Commodity-Stock Exchange  ³ 095-274-0283 ³ 2400/MNP           ³ 00:00-08:00 ³ <<< ³ Sergey Syasin      ³            ³274-0287³
+> BWS #1                    ³ 095-939-3685 ³ ?                  ³ 22:00-08:30 ³ <<< ³ Michael Gnatenko   ³ 5020/54.8  ³        ³
+> C BBS                     ³ 095-481-9233 ³ 2400               ³ 22:00-12:00 ³ <<< ³ Paul Tchistopolskii³ 5020/37.35 ³the same³
+> Project ITRA BBS          ³ 095-133-9596 ³ 2400/MNP           ³ 24h         ³ 24h ³ Kyril Shoshnikov   ³ 5020/49.7  ³133-1041³
+> Harpoon BBS               ³ 095-196-9677 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vladimir Ostroumov ³            ³196-9925³
+> Archivarius BBS           ³ 095-262-1474 ³ 2400/MNP           ³ 18:00-09:00 ³ --- ³ Maxim Ponizovtsev  ³ 5020/82.16 ³487-6392³
+> Krakatoa BBS              ³ 095-122-5836 ³ ?                  ³ 23:00-10:00 ³ --- ³ Igor Magajmow      ³ 5020/68.3  ³        ³
+> Eagle BBS                 ³ 095-353-8768 ³ 2400               ³ 00:00-09:00 ³ <<< ³ Dmitry Orel        ³ 5020/79.3  ³291-9958³
+> PilotNet BBS              ³ 095-943-0040 ³ 2400/MNP           ³ 24h         ³ 24h ³ Anton Polyakov     ³            ³193-7234³
+> Mike & Nike BBS           ³ 095-243-3777 ³ ?                  ³ 23:00-10:00 ³ <<< ³ Nike Bedniakov     ³ 5020/61.13 ³        ³
+> Gold Night BBS            ³ 095-387-0886 ³ 2400               ³ 21:30-08:30 ³ <<< ³ Dmitry Soloviev    ³ 5020/102.15³the same³
+> TaskMaster BBS            ³ 095-166-5927 ³ 2400/MNP/V42B      ³ 20:00-08:00 ³ --- ³ Alex Wysokolov     ³            ³the same³
+> IVC "GreenTown" BBS       ³ 095-534-3643 ³ 1200               ³ 22:00-07:00 ³ <<< ³ Vadim Petrjaev     ³ 5020/60.101³534-0017³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşş St.Petersburg Russia  ³ 812-xxx-xxxx ³                    ³ local time is +0h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+> Alice#1                   ³ 812-528-7765 ³ 2400/MNP           ³ 24h         ³ 24h ³ Dmitry Vorobyov    ³ 5030/4.12 ³³        ³
+³ Asy's Unicorn             ³ -mail--only- ³ 9600/MNP/V32/V42B  ³ 00:30-08:30 ³ <<< ³ Asy Patrysheva     ³ 5030/19   ³³100-1590³
+> Blues BBS                 ³ 812-275-7226 ³ 2400/MNP           ³ 12:00-18:00 ³ --- ³ Mihail Savchenko   ³ 5030/27   ³³275-0040³
+³ Diogen BBS                ³ 812-245-6108 ³ 2400/MNP/V42B      ³ 18:00-22:00 ³ 24h ³ Peter Suchkow      ³ 5030/34.6 ³³245-6080³
+> Dirty Deeds               ³ 812-235-3749 ³ 2400               ³ 23:00-07:00 ³ <<< ³ Nicolas Rodionov   ³ 5030/25   ³³235-1510³
+> Gold Zeppelin             ³ 812-265-1496 ³ 14400/MNP/HST/V32B ³ 24h         ³ 24h ³ Anthony Guetmansky ³ 5030/6    ³³        ³
+> IMA-press BBS             ³ 812-544-1240 ³ 2400               ³ 20:00-10:00 ³ 24h ³ Roma Astakhoff     ³           ³³        ³
+> Inferno Power             ³ 812-157-4958 ³ 2400               ³ 00:00-09:00 ³ <<< ³ Cyril Antonov      ³ 5030/5.10 ³³        ³
+> Junior BBS                ³ 812-310-1183 ³ 2400               ³ 21:00-14:00 ³ 24h ³ Denis Saveljev     ³ 5030/29.2 ³³310-1192³
+> Last Storey BBS           ³ 812-252-3672 ³ 2400               ³ 18:00-10:00 ³ 24h ³ Ilya Mikhailov     ³ 5030/29   ³³252-3935³
+> LB-Info                   ³ 812-541-8411 ³ 2400/MNP           ³ 24h         ³ 24h ³ Nick Nemirov       ³ 5030/22   ³³        ³
+³ Kreit BBS                 ³ 812-314-4131 ³ 14400/MNP/HST/V32B ³ 22:00-10:00 ³ <<< ³ Dmitry Klimenkov   ³ 5030/1    ³³        ³
+³ Kronverk BBS              ³ 812-126-6972 ³ 14400/MNP/HST/V32B ³ 24h         ³ 24h ³ Mike Bravo         ³ 5030/2ÄÄÄÄÙ³126-4237³
+> Nice Landing BBS          ³ 812-234-2253 ³ 9600/MNP/V32       ³ 18:00-10:00 ³ 24h ³ Leonid Yakovlev    ³ 5030/5     ³234-9090³
+³ Night Breed BBS           ³ 812-310-0596 ³ 2400/MNP           ³ 22:00-10:00 ³ 24h ³ Roman Ignatiev     ³ 490/20.2013³the same³
+> Night Star BBS            ³ 812-310-5417 ³ 2400/MNP           ³ 24h         ³ 24h ³ Bob Adlivankin     ³ 5030/31    ³113-4361³
+³ Nuclear Dragon's BBS      ³ 812-559-3019 ³ 2400/MNP           ³ 22:00-10:00 ³ --- ³ Victor Mager       ³            ³        ³
+³ Petersburgh Future BBS    ³ --unknown--- ³ 9600/MNP/V32       ³ 24h         ³ 24h ³ Denis Eropkin      ³ 5030/4     ³        ³
+> RTK Chanel BBS            ³ 812-104-1835 ³ 2400/MNP           ³ 24h         ³ 24h ³ Dmitry Shirnin     ³ 5030/34    ³104-1827³
+³ Sen's Smile BBS           ³ 812-298-5706 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vitalii Sen        ³ 5030/14    ³        ³
+> SoftScribe BBS            ³ 812-311-0491 ³ 2400               ³ 24h         ³ 24h ³ Yury Belyakov      ³ 5030/33    ³        ³
+³ Spider's Nest             ³ 812-271-1360 ³ 2400/MNP           ³ 24h         ³ 24h ³ Michael Pogrebnyak ³ 5030/8     ³        ³
+> SPIRE BBS                 ³ 812-312-6558 ³ 2400/MNP/V42       ³ 00:00-08:00 ³ <<< ³ Kirill Derevitsky  ³ 5030/18    ³        ³
+> The Gold Leaves BBS       ³ 812-542-3072 ³ 2400/MNP           ³ 21:00-10:00 ³ --- ³ Eugene Agapov      ³ 5030/41    ³542-5502³
+³ Tower BBS                 ³ 812-248-8189 ³ 2400/MNP           ³ 00:00-07:00 ³ <<< ³Alexander Tabanainen³ 5030/36    ³the same³
+³ VicTor's Station          ³ 812-177-5397 ³ 2400               ³ 09:00-19:00 ³ --- ³ Victor Terechov    ³            ³        ³
+> Warlen                    ³ 812-186-0786 ³ 2400               ³ 18:00-10:00 ³ 24h ³ Oleg Kuzin         ³ 5030/7     ³186-0267³
+³ Wings BBS                 ³ 812-108-5610 ³ 2400               ³ 20:00-08:00 ³ 24h ³Alexander Samokhvalov 5030/29.3  ³108-5920³
+³ 44 (4 lines)              ³ 812-222-8499 ³ 2400               ³ 24h         ³ 24h ³ Serge Horuzhov     ³            ³        ³
+> Aurora                    ³ 812-567-7102 ³ 2400               ³ 18:00-06:00 ³ <<< ³ Dima Prohorov      ³            ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşş Tallinn Estonia ³ 014-2xx-xxxx ³                    ³ local time is +0h ³                    ³ host 490ÄÄ¿³        ³
+³ Hacker's Night System #1  ³ 014-244-2143 ³ 14400/HST/V32B/V42B³ 19:00-09:00 ³ 24h ³ Tarmo Ausing       ³ 490/1ÄÄÄÄÄÙ³244-2143³
+³                           ³              ³                    ³             ³     ³ Tynis Reimo        ³            ³        ³
+³ Hacker's Night System #2  ³ 014-260-1818 ³ 2400/MNP           ³ 19:00-09:00 ³ 24h ³ Tarmo Ausing       ³            ³244-2143³
+³                           ³              ³                    ³             ³     ³ Tynis Reimo        ³            ³        ³
+³ New Age System            ³ 014-260-6319 ³ 14400/HST/V32B/V42B³ 19:00-10:00 ³ 24h ³ Tanel Raja         ³ 490/12     ³260-6414³
+³ The Flying Disks          ³ 014-268-4911 ³ 2400               ³ 19:00-09:00 ³ 24h ³ Margus Sutt        ³ 490/13     ³268-4901³
+³ Dark Corner BBS           ³ 014-249-2280 ³ 2400               ³ 19:00-09:00 ³ 24h ³ Priit Kasesalu     ³ 490/14     ³249-5402³
+³ Call of Die               ³ 014-252-5869 ³ 2400               ³             ³     ³ Taivo Talkop       ³ 490/16     ³        ³
+³                           ³              ³                    ³             ³     ³                    ³ region 49Ä¿³        ³
+³ Goodwin BBS               ³ 014-269-1872 ³ 14400/HST/V32B/V42B³ 24h         ³ 24h ³ Sulo Kallas        ³ 490/20ÄÄÄÄÙ³244-3555³
+³ Mailbox-CG                ³ 014-253-2350 ³ 2400               ³ 22:00-02:30 ³ <<< ³ Madis Kaal         ³ 490/30     ³253-2419³
+³ MamBox #1                 ³ 014-244-3360 ³ 9600/MNP/PEP       ³ 21:00-09:00 ³ 24h ³ Tarmo Mamers       ³ 490/40     ³268-2286³
+³ MamBox #2                 ³ 014-244-4188 ³ 9600/MNP/PEP       ³ 21:00-09:00 ³ 24h ³                    ³ 490/40.400 ³244-4188³
+³ Lion's Cave               ³ 014-253-6246 ³ 14400/HST/V32B/V42B³             ³     ³ Andres Lepp        ³ 490/70     ³253-6246³
+³ Eesti BBS #1              ³ 014-242-2583 ³ 14400/MNP/HST      ³ 24h         ³ 24h ³ Lembit Pirn        ³            ³        ³
+³ Space Island BBS          ³ 014-245-1611 ³ 2400               ³ 21:00-08:00 ³ <<< ³ Edward Smart       ³            ³245-2764³
+³ INREKO on-line            ³ 014-249-2154 ³ 2400/MNP           ³ 24h         ³ 24h ³ Lembit Laanso      ³            ³249-3094³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşş Tartu Estonia ³ 014-34x-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ MESO BBS                  ³ 014-343-3434 ³ 2400/MNP           ³ 20:00-09:00 ³ 24h ³ Viljo Allik        ³ 490/60     ³342-8940³
+³ BeSIDE BBS                ³ 014-343-1995 ³ 2400/MNP           ³ 17:00-8:00  ³ <<< ³ Margus Varton      ³ 490/95     ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşş Kharkov Ukraine ³ 057-2xx-xxxx ³                    ³ local time is -1h ³                    ³            ³        ³
+> Info Tech BBS             ³ -mail--only- ³ 2400/MNP/V42B      ³ 24h         ³ 24h ³ Oleg Shein         ³ 461/11     ³        ³
+³ SFG BBS                   ³ 057-220-2573 ³ 2400/MNP/V42B      ³ 17:00-09:00 ³ 24h ³ Sergey Gorliak     ³ 461/21     ³the same³
+> Big Muzzy                 ³ 057-243-8058 ³ 2400/MNP/V42B      ³ 24h         ³ 24h ³ Valery Rabinovitch ³ 461/23     ³221-0563³
+³ Garry BBS                 ³ 057-226-0336 ³ 2400/MNP           ³ 19:00-09:00 ³ 24h ³ Igor Kuzmenko      ³ 461/25     ³        ³
+³ IIN BBS                   ³ 057-222-8427 ³ 2400/MNP           ³ 10:00-18:00 ³ --- ³ Roma Chernov       ³ 461/23.14  ³        ³
+> VEGA BBS                  ³ 057-221-0555 ³ 2400/MNP/V42B      ³ 24h         ³ --- ³ Vadim Garbooze     ³ 461/30     ³        ³
+> D-t-S BBS                 ³ 057-223-2994 ³ 2400/MNP/V42B      ³ 18:00-07:00 ³ --- ³ Andrey Gerasimov   ³ 461/11.20  ³        ³
+> SoftService               ³ 0572-437-011 ³ 2400/MNP           ³ 24h         ³ --- ³ Michail Vostrov    ³ 461/23.22  ³        ³
+> FSR BBS                   ³ ----down---- ³ 9600/MNP/V32B      ³ 20:00-23:00 ³ --- ³ Alex Koval         ³ 461/23.10  ³        ³
+> InfoCom                   ³ 057-223-5102 ³ 2400/MNP/V42B      ³ 24h         ³ --- ³ Galina Faraonova   ³ 46/1.851   ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşş Kiev Ukraine ³ 044-xxx-xxxx ³                    ³ local time is -1h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³ Post Square #1            ³ 044-417-5700 ³ 9600/MNP/V32       ³ 24h         ³ 24h ³ Vladimir Leeman    ³ 463/1ÄÄÄÄÄÙ³        ³
+³ Post Square #2            ³ 044-417-5589 ³ 2400               ³ 19:00-09:00 ³ <<< ³ Vladimir Leeman    ³ 463/1.2    ³        ³
+³ Software Bank BBS         ³ 044-266-9085 ³ 2400               ³ 00:00-08:00 ³ <<< ³ Vladimir Zagorovsky³ 463/4      ³        ³
+³ Mission BBS               ³ 044-244-6296 ³ 1200               ³ 00:00-08:00 ³ <<< ³ Oleg Mikitenko     ³ 463/5      ³        ³
+³ Intelligence Games Service³ 044-559-6764 ³ 2400/MNP4          ³ 23:00-07:00 ³ <<< ³ Vladimir Potabenko ³ 463/20     ³        ³
+³ The Third Level BBS       ³ 044-276-2295 ³ 1200               ³ 17:30-08:30 ³ 24h ³ Max Nefedchenko    ³ 463/33     ³the same³
+³ Iron Box BBS              ³ 044-435-2066 ³ 1200               ³ 24h         ³ 24h ³ Sergey Volick      ³ 463/40     ³        ³
+³ Karlsson Tiny BBS         ³ 044-430-4900 ³ 2400               ³ 17:00-09:00 ³ 24h ³ Karlsson Sergej    ³ 463/50     ³431-7825³
+³ TISNet BBS                ³ 044-213-8122 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vitali Shtabovenko ³ 463/55     ³        ³
+³ Software Service BBS      ³ 044-290-4302 ³ 2400               ³ 24h         ³ 24h ³ Vitalik Slipchenko ³ 463/57     ³        ³
+³ MiKrOB Point BBS          ³ 044-225-3098 ³ 2400               ³             ³     ³ Fil Grushevsky     ³ 463/34     ³221-2148³
+> Pulsar BBS                ³ 044-225-5675 ³ 2400/MNP           ³ 23:00-02:00 ³ <<< ³ Miroslav Ivensky   ³ 463/17     ³        ³
+> ParaMount BBS             ³ 044-417-0751 ³ 14400/MNP/HST/V42B ³ 24h         ³ 24h ³ Sergey Stepanenko  ³ 463/31     ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşş Kishinev ³ 042-2xx-xxxx ³                    ³ local time is +0h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³ Hunter BBS                ³ 042-222-8966 ³ 2400/MNP           ³ 24h         ³ 24h ³ Michael Karpov     ³ 469/1ÄÄÄÄÄÙ³        ³
+³ SoftPanorama-II           ³ 042-224-0539 ³ 2400               ³ 22:00-08:00 ³ <<< ³ Igor Rouzis        ³ 469/10     ³        ³
+³ Stork BBS                 ³ 042-223-4186 ³ 2400               ³ 18:00-09:00 ³ 24h ³ Valerian Levinsky  ³ 469/20     ³        ³
+³ Minas Ithil BBS           ³ 042-225-3238 ³ 2400               ³ 17:00-09:00 ³ 24h ³Alexei Kolisnichenko³ 469/30     ³225-3205³
+³ Berg BBS                  ³ 042-226-3743 ³ 2400               ³ 22:00-09:00 ³ 24h ³ Igor Vaysenberg    ³ 469/7      ³        ³
+> Hacker's Sabbat           ³ 042-262-5853 ³ 2400/MNP           ³ 19:00-08:00 ³ 24h ³ Serg Kurdoglo      ³ 469/30.50  ³        ³
+> CoPirate BBS              ³ 042-224-6383 ³ 2400               ³ 19:00-09:00 ³ 24h ³ Slava Filimonov    ³ 469/33     ³224-6393³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşş Dniepropetrovsk ³ 056-2xx-xxxx ³                    ³ local time is +0h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³ Micado's BBS              ³ 056-246-0073 ³ 2400               ³ 20:00-08:00 ³ <<< ³ Michael Pozin      ³ 464/10ÄÄÄÄÙ³        ³
+³                           ³              ³                    ³             ³     ³ Vadim Hacker       ³            ³        ³
+³ Modern Traveller BBS      ³ 056-242-5901 ³ 2400/MNP/V42       ³ 21:00-08:00 ³ <<< ³ Gena Rez           ³ 464/2      ³        ³
+³ TestOfRoots               ³ 056-246-4823 ³ 1200               ³ 24h         ³ 24h ³ Alex Timoshenko    ³ 464/3      ³        ³
+³ Dniepr BBS                ³ 056-244-1078 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vadim Getmanschuk  ³ 464/4      ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşş Minsk Byelorussia ³ 017-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Six Mizzle BBS            ³ 017-277-2804 ³ 2400               ³ 24h         ³ 24h ³ Igor Scherbakov    ³ 466/20     ³the same³
+³ VTI BBS                   ³ 017-226-5457 ³ 1200               ³ 20:00-08:00 ³ <<< ³ Kirill Matveyonok  ³ 466/90     ³        ³
+³ Wizard City               ³ 017-270-6003 ³ 2400               ³ 20:00-08:00 ³ <<< ³ Irina Dunaeva      ³            ³270-6002³
+> MerryLand BBS             ³ 017-223-7014 ³ 2400               ³ 20:00-08:00 ³ 24h ³ Artyom Churko      ³ 466/80     ³226-9503³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşş Novosibirsk Russia ³ 383-2xx-xxxx ³                    ³ local time is +4h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³ Advanced Information Tech.³ 383-223-7222 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vitaly Klochko     ³ 5000/1    ³³223-8404³
+³ Prolog BBS                ³ 383-276-4396 ³ 2400/MNP           ³ 17:00-03:00 ³ 24h ³ Andrey Vokhmianin  ³ 5000/2    ³³the same³
+³ Sprite's mail BBS         ³ 383-235-8673 ³ 2400/MNP           ³ 20:00-04:00 ³ <<< ³ Serge Terekhov     ³ 5000/13   ³³the same³
+³ No Earthly Connection     ³ 383-235-4310 ³ 2400               ³ 17:00-04:00 ³ 24h ³ Vladimir Lebedev   ³ 5000/20   ³³the same³
+³ Stealth Voice BBS         ³ 383-235-6011 ³ 19200/MNP/PEP/V42B ³ 17:00-04:00 ³ 24h ³ Maxim Nikitin      ³ 5000/30ÄÄÄÙ³235-5659³
+³ CAD BBS                   ³ 383-266-1682 ³ 2400/MNP           ³ 14:00-04:00 ³ <<< ³ Vorobyev Bob       ³            ³        ³
+³ V&V BBS                   ³ 383-222-1978 ³ 2400/MNP           ³ 17:00-02:00 ³ <<< ³ Vadim Polyakoff    ³ 5000/12    ³222-7666³
+³ Yellow Submarine I        ³ 383-235-4074 ³ 2400/MNP           ³ 17:00-04:00 ³ 24h ³ Yura Svetlanov     ³ 5000/15    ³235-0860³
+³ Siberian Ghost            ³ 383-235-0461 ³ 2400               ³ 17:00-04:00 ³ <<< ³ Nikolay Buslaev    ³ 5000/17    ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşş Krasnoyarsk ³ 391-2xx-xxxx ³                    ³ local time is +4h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+> The Yellow House          ³ 391-221-0136 ³ 9600/MNP/V32B      ³ 24h         ³ 24h ³ Arkady Bundakoff   ³ 5000/4    ³³221-1296³
+³ Crass BBS                 ³ 391-222-3447 ³ 2400/MNP/V42B      ³ 24h         ³ 24h ³ Roman Krasnov      ³ 5090/10ÄÄÄÙ³222-5633³
+> DialogueSiberia BBS       ³ 391-222-1483 ³ 2400/MNP           ³ 15:00-05:00 ³ 24h ³ Dmitry Maryasov    ³ 5090/13    ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşşşş Abakan ³ 391-2xx-xxxx ³                    ³ local time is +4h ³                    ³            ³        ³
+> Hole of Alone Lion        ³ 391-725-9787 ³ 2400/MNP           ³ 17:00-04:00 ³ <<< ³ Evgeny Larionov    ³ 5000/22    ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşş Chelyabinsk Russia ³ 351-2xx-xxxx ³                    ³ local time is +2h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³ PsychodeliQ Hacker Club #1³ 351-237-4550 ³ 2400               ³ 24h         ³ 24h ³ Yuri PQ (Potapuke) ³ 5010/2ÄÄÄÄÙ³237-3700³
+³ PsychodeliQ Hacker Club #2³ 351-237-4546 ³ 2400               ³ 14:00-08:00 ³ <<< ³                    ³            ³        ³
+³ JV Ural Dialoque BBS      ³ 351-233-6644 ³ 2400               ³ 18:00-05:30 ³ <<< ³ Konstantin Yudaev  ³ 5010/3     ³        ³
+³ School#31                 ³ 351-233-0065 ³ 2400               ³             ³     ³ Alexander Pogodin  ³ 5010/7     ³        ³
+³ Wrong Weather System      ³ 351-239-9127 ³ 1200               ³             ³     ³ Paul Michnukevich  ³ 5010/9     ³        ³
+³ SUrPrize BBS              ³ 351-242-0925 ³ 2400               ³ 18:00-7.00  ³ 24H ³ Nickolay Golubkov  ³ 5010/11    ³242-0659³
+> Glasha BBS                ³ 351-239-9616 ³ 2400               ³ 19:00-07:30 ³ <<< ³ Michael Poponin    ³            ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşş Kaunas Lithuania ³ 012-7xx-xxxx ³                    ³ local time is +0h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³                           ³              ³                    ³             ³     ³                    ³ region 47Ä´³        ³
+³ Wolfbox BBS               ³ 012-773-0134 ³ 9600/HST/V32B/V42B ³ 24h         ³ 24h ³ Zygmantas Cepaitis ³ 470/1ÄÄÄÄÄÙ³773-3595³
+³ Villa Metamorph BBS       ³ 012-779-1666 ³ 2400/MNP           ³ 18:00-09:00 ³ <<< ³ Martynas Buozis    ³ 470/5      ³720-0244³
+³ Kaunas #7 Carillon BBS    ³ 012-720-0274 ³ 2400/MNP           ³ 18:00-10:00 ³ 24h ³ Darius Liaugaudas  ³ 470/7      ³720-0274³
+³                           ³              ³                    ³             ³     ³ Vitalis Briedis    ³            ³        ³
+³ KTU Automatic Faculty BBS ³ 012-775-7603 ³ 2400               ³             ³     ³ Saulius Raila      ³ 470/11     ³        ³
+³ Lira BBS                  ³ 012-770-6956 ³ 2400/MNP           ³ 24h         ³ 24h ³ Sergey Schepetnov  ³ 470/100    ³        ³
+³ LiraGate BBS              ³ 012-770-9813 ³ 2400/MNP           ³ 24h         ³ 24h ³ Sergey Schepetnov  ³ 470/101    ³        ³
+³ Richteam                  ³ 012-770-9815 ³ 2400/MNP           ³ 24h         ³ 24h ³ Sergey Schepetnov  ³ 470/105    ³        ³
+³ GRANIT BBS                ³ 012-726-9170 ³ 2400/MNP           ³             ³     ³ Vigintas Lopas     ³ 470/110    ³        ³
+³ ATRAMA BBS                ³ 012-726-1117 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vidmantas Rajuncius³ 470/111    ³        ³
+³ EXCHANGE Data             ³ 012-772-8541 ³ 2400/MNP           ³ 00:00-08:00 ³ <<< ³ Valdas Novapolskas ³ 470/115    ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşş Vilnus Lithuania ³ 012-2xx-xxxx ³                    ³ local time is +0h ³                    ³ hostÄÄÄÄÄÄ¿³        ³
+³ Panacea BBS               ³ 012-262-8809 ³ 2400               ³             ³     ³ Giedrius Vegys     ³ 471/1ÄÄÄÄÄÙ³        ³
+³ Iron Wolf BBS             ³ 012-222-0624 ³ 2400/MNP           ³ 24h         ³ 24h ³ Eduardas Beliavskis³ 471/2      ³        ³
+³ Elta BBS                  ³ 012-222-2222 ³ 2400               ³             ³     ³ Gediminas Krunglevicius 471/3   ³        ³
+³ Amber Way BBS             ³ 012-222-7194 ³ 9600/MNP/V32/V42B  ³ 24h         ³ 24h ³ Robertas Sileikis  ³ 49/11      ³261-9957³
+³---------------------------³--------------³--------------------³-------------³-----³--------------------³------------³--------³
+³ Spectrum                  ³ 012-222-6381 ³ 2400               ³ 22:00-08:00 ³ <<< ³ Lex Jancevich      ³            ³        ³
+³ Baltic Comp. Center.      ³ 012-261-8364 ³ 2400               ³ 22:00-08:00 ³ <<< ³ Andrunas Listopadskis           ³        ³
+³ Node 30                   ³ 012-262-9817 ³ 2400               ³             ³     ³ Gintautas Balciunaitis          ³        ³
+³ HTA BBS                   ³ 012-222-1698 ³ ?                  ³ 00:00-08:00 ³ <<< ³ Darius Simanauskas ³            ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşş Panevezys ³ 012-5xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşş Riga Latvia ³ 013-2xx-xxxx ³                    ³ local time is -1h ³                    ³            ³        ³
+³ UFO BBS                   ³ 013-232-3983 ³ 2400               ³ 24h         ³ 24h ³ Ugis Berzins       ³ 495/10     ³        ³
+³ LIA BBS #2                ³ 013-227-1008 ³ 2400               ³ 18:30-07:00 ³ <<< ³ Alfreds Belavskis  ³ 495/12     ³        ³
+³ Silava-Info               ³ 013-294-2550 ³ 2400               ³ 23:00-08:00 ³ 24h ³ Juris Bekins       ³ 495/20     ³        ³
+³ GoSaiva BBS               ³ 013-276-4865 ³ 2400               ³ 16:00-19:00 ³ --- ³ Slawa Goroshkoff   ³ 495/17.171 ³the same³
+³ Castle BBS                ³ -mail-only-- ³ 2400/MNP           ³ 24h         ³ 24h ³ Egons Bush         ³ 495/21     ³        ³
+³ RVT BBS                   ³ 013-232-5850 ³ 2400               ³ 17:00-08:00 ³ 24h ³ Haralds Jakovels   ³ 495/17     ³232-5768³
+³ F-40 BBS                  ³ 013-227-3740 ³ 1200               ³ 22:00-09:00 ³ 24h ³ Andy Rucinsh       ³ 495/23     ³the same³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşş Izhevsk Russia ³ 341-2xx-xxxx ³                    ³ local time is +1h ³                    ³            ³        ³
+³ APS Sotfware BBS #1       ³ 341-275-5766 ³ 2400/MNP           ³ 24h         ³ 24h ³ Alexander Ermolaev ³ 5050/1     ³        ³
+³ APS Sotfware BBS #2       ³ 341-277-8697 ³ 2400/MNP           ³ 19:00-07:00 ³ 24h ³ Dmitry Mironov     ³ 5050/3     ³        ³
+³ Hacker Wolf System        ³ 341-223-3183 ³ 2400/MNP           ³ 22:00-07:00 ³ 24h ³ Alex Yudin         ³            ³the same³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşşş Irkutsk ³ 395-2xx-xxxx ³                    ³ local time is +5h ³                    ³ hostÄÄÄÄÄ¿ ³        ³
+³ Conchita                  ³ 395-246-1718 ³ 2400/MNP           ³ 19:00-mail h³ <<< ³ Anatoly Mashanov   ³ 5070/10ÄÄÙ ³246-1540³
+> Esperansa                 ³ 395-233-5514 ³ 2400/MNP           ³ 24h         ³ 24h ³ Vladimir Dolgikh   ³ 5070/4     ³233-5518³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşş Ivanovo Russia ³ 093-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ MicroBug's Station        ³ 093-232-1044 ³ 2400/MNP           ³ 18:00-08:00 ³ 24h ³ Dmitry Kiselev     ³ 5020/21    ³232-5252³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşş Khabarovsk Russia ³ 421-0xx-xxxx ³                    ³ local time is +7h ³                    ³ hostÄÄÄÄÄ¿ ³        ³
+³ Magic Wood BBS            ³ 421-033-5762 ³ 2400/MNP/V42B      ³ 13:00-01:00 ³ 24h ³ Igor Nesteroff     ³ 5040/2   ³ ³        ³
+³ Black Rune BBS            ³ 421-033-5057 ³ 2400               ³ 12:00-01:30 ³ <<< ³ Sergei Obrastsov   ³ 5040/3   ³ ³the same³
+> WelCome BBS               ³ 421-038-4262 ³ 2400/MNP/V42B      ³ 24h         ³ 24h ³ Dima Tkachenko     ³ 5040/6ÄÄÄÙ ³038-6941³
+³ Fact-INFO NewEnterprise   ³ 421-033-5652 ³ 2400/MNP           ³ 12:00-01:00 ³ --- ³ Evgene Matviewsky  ³            ³        ³
+³ Keypresser's Den BBS      ³ 421-034-2708 ³ 2400/MNP           ³ 13:00-01:00 ³ --- ³ Valery Shishkov    ³ 5040/1     ³        ³
+> Hot Space BBS             ³ 421-034-5484 ³ 2400/MNP/V42B      ³ 24h         ³ 24h ³ Vexler Gennady     ³ 5040/11    ³        ³
+> Cowex BBS                 ³ 421-021-2757 ³ ?                  ³ 12:00-17:00 ³ <<< ³ Sergey Jaskin      ³            ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşş Joshkar-Ola ³ 836-22x-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Slon BBS                  ³ 836-211-5073 ³ 2400/MNP/V42       ³ 24h         ³ 24h ³ Igor Kolupaew      ³ 5050/10    ³229-5151³
+³ Limpopo BBS               ³ -temp--down- ³ 2400               ³ 16.00-19.00 ³ --- ³ Anna Shick         ³            ³the same³
+³ Queen BBS                 ³ 836-211-5561 ³ 2400/MNP           ³ 16:00-07:00 ³ <<< ³ Oleg Garov         ³ 5050/12    ³229-8754³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşş Lvov Ukraine ³ 032-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ I&O BBS                   ³ 032-259-9260 ³ 1200/NMP           ³             ³     ³ Pavel Godlevsky    ³ 47/13      ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşş Odessa Ukraine ³ 048-0xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Jabberwocy Nest BBS       ³ 048-224-9800 ³ 2400               ³ 18:00-09:00 ³ 24h ³ Oleg Levchenko     ³ 467/10     ³        ³
+³ Trash BBS                 ³ 048-268-0984 ³ 2400               ³ 19:00-08:30 ³ 24h ³ Gena Rashkovich    ³ 461/400.15 ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşş Vladimir ³ 092-22x-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Golden Domes BBS          ³ 092-227-9920 ³ 2400               ³ 16:00-08:00 ³ 24h ³ Vladimir Maksimov  ³ 5030/6.612 ³the same³
+> Antiqua Lion BBS          ³ 092-227-8702 ³ 2400               ³ 11:00-16:00 ³ --- ³ Anatoly Maximov    ³            ³227-8598³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşş Alexandria ³ 052-35x-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Nostradamus               ³ 052-352-4879 ³ 2400/MNP           ³ 17:30-08:30 ³ <<< ³ Nick Shevchenko    ³ 463/200    ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşş Nadym Russia ³ 345-xxx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Enterprise BBS            ³ 345-954-1242 ³ 2400/MNP/V24/28    ³ 22:00-08:00 ³ <<< ³ Oleg Moroz         ³            ³the same³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşş Ekaterinburg ³ 343-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Ekaterinberg 1-st BBS     ³ 343-256-0347 ³ 2400               ³ 17:00-07:00 ³ 24h ³ Sergey Zavoronkoff ³ 5080/1     ³the same³
+³ Ural Data BBS             ³ -temp--down- ³ 2400/MNP/V42B      ³ 17:00-07:00 ³ <<< ³ Alex Cooklin       ³ 5080/2     ³271-4520³
+³ Ural Broker's House BBS   ³ 343-256-0455 ³ 2400/MNP           ³ 24h         ³ <<< ³ Ludmila Sharlo     ³            ³256-0312³
+³ Conus BBS                 ³ 343-244-8408 ³ 2400               ³ 21:00-08:30 ³ <<< ³ Sergey Solovey     ³ 5080/2.3   ³        ³
+³ Camouflage BBS            ³ -temp--down- ³ 2400               ³ 16:00-08:00 ³ 24h ³ Andrew Zelenin     ³ 5080/6     ³228-7140³
+> InformDesign BBS          ³ 343-272-8589 ³ ?                  ³ 17:00-07:00 ³ 24h ³ Igor Kazantsev     ³ 5080/2.13  ³272-8427³
+> The Fast Train            ³ 343-258-3173 ³ 2400               ³ 18:00-08:00 ³ <<< ³ Serge Vikulov      ³ 5080/5     ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşş Simbirsk Russia ³ 842-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Relax Station BBS         ³ 842-225-7341 ³ 1200               ³ 09:00-20:00 ³ <<< ³ Boris Tynkov       ³ 5030/12.100³225-7351³
+> OOP'S BBS                 ³ -temp--down- ³ 2400/MNP/V42B      ³ 08:00-17:00 ³ --- ³ Yury Yahontov      ³ 5030/12.101³238-3616³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşş Tashkent Uzbekistan ³ 371-2xx-xxxx ³                    ³ local time is +3h ³                    ³            ³        ³
+³ Finn BBS                  ³ 371-256-5797 ³ 2400               ³ 14:30-04:00 ³ 24h ³ Pavel Heikonen     ³            ³        ³
+> Onix BBS                  ³ 371-254-8498 ³ 2400               ³ 19:00-07:00 ³ <<< ³Alexander Steklyanov³ 466/1.12   ³254-8497³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşş Nizhny Novgorod ³ 831-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ School 1st BBS            ³ -temp--down- ³ 2400/MNP           ³ 17:00-08:00 ³ 24h ³ Valdov Dmitry      ³ 5015/2     ³the same³
+> Foggy Planet              ³ 831-235-0266 ³ 2400/MNP/V42B      ³ 22:00-06:00 ³ 24h ³ Sergey Baranov     ³ 5015/1.6   ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşş Cheboksary ³ 835-0xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ HIT!                      ³ 835-021-2310 ³ 2400/MNP           ³ 09:00-19:00 ³ <<< ³ Vladimir Sivov     ³ 5050/40    ³022-1099³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşş Voronezh ³ 073-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Low Voice BBS             ³ -temp--down- ³ 2400               ³ 24h         ³ 24h ³ Mike Kartashov     ³ 50/304     ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşş Alma-Ata ³ 327-2xx-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Kazakhstan Communication  ³ 327-263-5539 ³ 2400/MNP           ³ 15:00-06:00 ³ 24h ³ Boris Leskin       ³ 50/306     ³        ³
+> Space Falcon BBS          ³ 327-261-2268 ³ 2400/MNP/HST/V32B  ³ 23:00-07:00 ³ <<< ³ Igor Shtork        ³            ³261-2268³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşş Archangelsk ³ 818-00x-xxxx ³                    ³ local time is +8h ³                    ³            ³        ³
+³ ADC BBS                   ³ 818-007-7985 ³ 1200               ³ 20:00-08:00 ³ <<< ³ Oleg Kudinov       ³ 5031/2     ³        ³
+³ Tree Factory BBS          ³ 818-001-1995 ³ 2400               ³ 20:00-08:00 ³ 24h ³ Oleg Kalyamin      ³ 5020/34.10 ³ 11-106 ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşş Severodvinsk ³ 818-46x-xxxx ³                    ³ local time is +0h ³                    ³            ³        ³
+³ Submarine BBS             ³ 818-462-3586 ³ 2400/MNP           ³ 22:00-02:00 ³ <<< ³ Oleg Laptev        ³ 5031/3     ³ 32-839 ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşş Komsomolsk-na-Amure ³ 231-00x-xxxx ³                    ³ local time is +7h ³                    ³            ³        ³
+³ Far East Woodpecker BBS   ³ 231-004-4295 ³ 2400/MNP           ³ 00:00-06:00 ³ <<< ³ V.(?) Davydoff     ³ 5040/6.5   ³the same³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşş Taganrog ³ 863-44x-xxxx ³                    ³             ³     ³                    ³            ³        ³
+> Yellow Submarine II       ³ 863-444-4625 ³ 2400/MNP           ³ 19:00-07:30 ³ 24h ³Alexander Redkozubov³ 5060/2     ³the same³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşş Pavlodar Kazakhstan ³ 318-0xx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+³ Wild Card BBS             ³ 318-072-0940 ³ 9600/V42b/HST      ³ 24h         ³ 24h ³Harry Martemyanov   ³ 50/500     ³072-4877³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşşşşş Sochi ³ 862-xxx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+> S&Y                       ³ 862-245-3317 ³ 2400/MNP           ³ 24h         ³ 24h ³Alexander Ovcharenko³ 5020/78.100³295-0825³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşş Vladivostok ³ 423-xxx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+³ Ghost Hall BBS            ³ 423-226-8818 ³ 2400               ³ 24h         ³ 24h ³ Alexey Yashin      ³ 5045/10    ³222-8964³
+³ Paradise BBS              ³ 423-226-6336 ³ 2400/MNP           ³ 19:00-01:00 ³ 24h ³ Alex Smelik        ³ 5045/2     ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşşş Barnaul ³ 385-xxx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+³ HiM Soft BBS              ³ 385-224-9981 ³ 1200               ³ 13:00-05:00 ³ 24h ³ Haustov Ivan       ³            ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşş Kaliningrad ³ 011-2xx-xxxx ³                    ³             ³     ³                    ³ hostÄÄÄÄÄ¿ ³        ³
+³ West Point BBS            ³ 011-243-2686 ³ 2400/MNP           ³ 20:00-10:00 ³ 24h ³ Maximka Kadenkin   ³ 478/1 ÄÄÄÙ ³the same³
+> FireBall                  ³ 011-244-3923 ³ 2400/MNP           ³ 20:00-10:00 ³ 24h ³ ?                  ³ 478/2      ³        ³
+> Fishwar BBS               ³ 011-246-5487 ³ 2400               ³ 24h         ³ 24h ³ Alexander Feldman  ³ 478/3      ³246-3818³
+> Trade House               ³ 011-221-2643 ³ 2400/MNP           ³ 20:00-10:00 ³ 24h ³ ?                  ³            ³        ³
+> PeterSoft                 ³ 011-221-8021 ³ 2400/MNP           ³ 20:00-10:00 ³ 24h ³ ?                  ³ 478/7      ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşş Simferopol ³ 065-2xx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+³ Crimea Island BBS         ³ 065-224-5823 ³ 2400/MNP           ³ 24h         ³ 24h ³ Sergey Starosek    ³ 467/200    ³227-6236³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşş Kamyshin ³ 844-57x-xxxx ³                    ³             ³     ³                    ³            ³        ³
+> VEA BBS                   ³ 844-573-2019 ³ 2400/MNP           ³ 24h         ³ 24h ³ Yevgeny Vysokovsky ³ 5030/5.25  ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşş Syktyvkar Komi ³ 821-22x-xxxx ³                    ³             ³     ³                    ³            ³        ³
+> SBIS BBS                  ³ 821-222-7650 ³ 2400/MNP           ³ 24h         ³ 24h ³ Andrey Morozov     ³ 5030/5.32  ³        ³
+> Hobbit BBS                ³ --unknown--- ³ 2400/MNP           ³ 24h         ³ 24h ³ Alex Zuikov        ³ 5030/19.50 ³        ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşş Volgodonsk ³ 863-xxx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+> AtomiX BBS                ³ 863-929-7706 ³ 2400/MNP/V42       ³ 19:30-07:30 ³ --- ³Alexander Bezborodov³ 5020/33.13 ³the same³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşşşşşş Perm ³ 342-2xx-xxxx ³                    ³ local time is +2h ³                    ³            ³        ³
+> Far Jump                  ³ 342-233-1147 ³ 2400/MNP           ³ 20:00-06:00 ³ 24h ³ Alexey Durnev      ³ 5050/30    ³231-8772³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄ´
+³ şşşşşşşşşşşşşşşşş Tbilisi ³ 883-xxx-xxxx ³                    ³             ³     ³                    ³            ³        ³
+> Georgia BBS               ³ 883-295-8235 ³ 2400               ³ 24h         ³ 24h ³ Temuri Imnaishvili ³ 446/0      ³238-3555³
+> Nariani BBS               ³ 883-295-0073 ³ 2400               ³ 24h         ³ 24h ³Nodari Agdgomelashvili  446/1    ³295-0967³
+> Forum                     ³ 883-229-3581 ³ 9600/MNP/V42B      ³ 24h         ³ 24h ³ Valeri Imnaishvili ³ 446/2      ³236-9410³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÙ
+decoding values in field "weekend":
+24h - station worked in weekend 24 hours in day
+<<< - station worked in weekend as an weekday (see previous value /left/)
+--- - station _not_ worked in weekday
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+For insert your new station into this list, or change information, 
+please send message to Mikel Lavrentyev one as following way:
+remark: (*) - is recommended way
+(*) netmail to Fidonet address 2:5020/35
+(*) netmail to Relcom (Internet) address mikel@dialnet.msk.su
+message in Fidonet echo-conferences: SU.SYSOP, R50.SYSOP, N5020.SYSOP,
+                                     SU.GENERAL, MO.ECHO, REL.BBS
+message in Relcom echo-conferences:  relcom.fido.su.general, relcom.bbs
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+text of message:
+remark: (*) - required (certainly) information:
+ÄÄÄ cut here ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+    fields                 recommendation format   default value   sample
+
+  (*) station name           <none>                  ?               Sample BBS
+  (*) data phone             xxx-xxx-xxxx            ?               123-456-7890
+  (*) modem speed            xxxx                    ?               2400
+      modem protcols         prot1/prot2/prot3/...   <none>          MNP/HST/V32B
+  (*) weekday working time   xx:xx-xx:xx             00:00-08:00     20:00-10:00
+      weekend working time   "24h" "<<<" "---"       <<<             24h
+  (*) sysop name             Name Family             ?               Ivan Ivanov
+      Fidonet address        zone:net/node.point     <none>          2:1234/56.78
+      voice phone            xxx-xxx-xxxx            <none>          123-456-7890
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+xxxx            <none>          123-456-7890
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
