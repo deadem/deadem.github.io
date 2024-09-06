@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The hacker test"
+title:  "The Hacker test"
 date:   2024-09-05 0:00:00
 categories: [code, fun]
 ---
