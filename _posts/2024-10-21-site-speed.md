@@ -40,3 +40,25 @@ categories: [code, web]
 - Ленивая загрузка. Не перегружать `DOM` информацией: не загружать контент далее видимой области. (Это касается и всевозможных каруселей с аккордеонами) Под элементы, которые пользователь прямо сейчас не видит, просто резервируется место на странице, и только при подкрутке их в область видимости или ином взаимодействии, данные материализуются и отображаются.
 
 Никакие из пунктов выше не стоит рассматривать как прямое и безусловное руководство к действию. Проекты-ресурсы у всех разные, поэтому нужно аккуратно выбирать средства и технологии, и предварительно проверять, подойдут ли они именно для вашего проекта: у всего есть и негативные стороны.
+
+#### А зачем вообще оптимизировать скорость работы сайтов? Накопал несколько исследований:
+
+- Скорость работы сайта влияет на позицию в поисковой выдаче. (Тут ссследовался Гугл). Причём, влияет не напрямую - значима не скорость отклика конкретной страницы, а время обхода (индексации) всего сайта. ([Empirical study of load time factor in search engine ranking](https://dl.acm.org/doi/10.5555/2638636.2638642))
+
+- Это известный факт, что пользователь зашедший на сайт, может покинуть его из-за медленной работы и вернуться на страницы результатов поисковых систем, чтобы найти другие сайты с более быстрой загрузкой контента. Медленная загрузка вызывает у пользователей разочарование, заставляя их покидать веб-страницы, даже если контент отвечает их информационным потребностям. ([Bartuskova, A.; Krejcar, O.; Sabbah, T.; Selamat, A. Website speed testing analysis using speedtesting model. J. Teknol. 2016, 78, 12–13](https://journals.utm.my/index.php/jurnalteknologi/article/view/10028))
+
+- ...предыдущие исследования показали, что увеличение времени загрузки с одной до трех секунд может негативно сказаться на изучении сайта пользователями, одновременно увеличивая количество отказов на 32%. ([Think with Google. The Probability of Bounce Increases 32% as Page Load Time Goes from 1 Second to 3 Seconds.](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/page-load-time-statistics/))
+
+- Сайты компаний `BCC` теряли 10% пользователей за каждую дополнительную секунду загрузки контента. ([Clark, M. How the BBC Builds Websites That Scale](https://www.creativebloq.com/features/how-the-bbc-builds-websites-that-scale))
+
+- Увеличение времени загрузки на 10% увеличивает на 1,7 процентных пункта количество отказов от использования сайта ([Speed Matters: What to Prioritize in Optimization for Faster Websites](https://www.mdpi.com/2813-2203/1/2/12))
+
+- Исследование, проведённое компанией `COOK`, развивающейся в пищевой промышленности, показало, что снижение времени загрузки сайта на 850 миллисекунд привело к увеличению коэффициента конверсии на 7%, количества просмотренных страниц за сессию на 10%, а также к снижению показателя отказов на 7%. ([NCC Group. COOK Case Study](https://www.nccgroup.trust/globalassets/resources/uk/case-studies/web-performance/cook-case-study.pdf))
+
+- Что касается оптимизации платного поискового трафика, `Santander` увеличил скорость работы лендингов на 23%, что увеличило коэффициент достижения целей на 11%, снизило стоимость клика на 22%, а стоимость конверсии снизилась на 15%. ([Think with Google. How Santander and iProspect Gained More Conversions by Optimising Their Mobile UX and Paid Media spend.](https://www.thinkwithgoogle.com/intl/en-emea/marketing-strategies/app-and-mobile/how-santander-and-iprospect-gained-more-conversions-optimising-their-mobile-ux-and-paid-media-spend/))
+
+- В случае `Mobify` каждые 100 миллисекунд уменьшения времени загрузки главной страницы и страницы оформления заказа увеличивали конверсию каждой сессии с 1,11% до 1,53%. Это приносило доход от 380 000 до 530 000 долларов США в год. ([Yordanov, E. How Web Performance Affects Business Results (22 Case Studies)](https://nitropack.io/blog/post/web-performance-matters-case-studies))
+
+- Улучшение времени загрузки сайта `AutoAnything` привело к увеличению онлайн-продаж на 12-13%. ([Enright, A. Web Accelerator Revs up Conversions, Cart Size and Sales For AutoAnything.com](https://www.digitalcommerce360.com/2010/08/19/web-accelerator-revs-conversion-and-sales-autoanything/))
+
+- Компания `Furniture Village` обнаружила, что после уменьшения времени загрузки сайта на 20% коэффициент конверсии на мобильных устройствах увеличился на 10%, процент отказов снизился на 9%, а доходы от продаж выросли на 12%. ([Think with Google. Furniture Village and Greenlight Slash Page Load Times, Boosting the User Experience.](https://www.thinkwithgoogle.com/intl/en-gb/marketing-strategies/app-and-mobile/furniture-village-and-greenlight-slash-page-load-times-boosting-user-experience/))
