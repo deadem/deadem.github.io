@@ -1,1 +1,26 @@
 Sitemap: https://deadem.ru/sitemap.xml
+
+Disallow: /*.webp$
+Disallow: /*.jpg$
+Disallow: /*.png$
+
+Disallow: /page1$
+Disallow: /page1/$
+Disallow: /page2$
+Disallow: /page2/$
+Disallow: /page3$
+Disallow: /page3/$
+Disallow: /page4$
+Disallow: /page4/$
+Disallow: /page5$
+Disallow: /page5/$
+Disallow: /page6$
+Disallow: /page6/$
+Disallow: /page7$
+Disallow: /page7/$
+Disallow: /page8$
+Disallow: /page8/$
+Disallow: /page9$
+Disallow: /page9/$
+Disallow: /page10$
+Disallow: /page10/$
