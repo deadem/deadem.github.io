@@ -3,8 +3,6 @@ layout: post
 title:  Настоящие Программисты не используют Паскаль
 date:   2020-08-02 00:00:00 -0400
 categories: [code]
-redirect_from:
-  - /code/2020/08/02/real-programmers.html
 ---
 
 Хотел поделиться с товарищем хорошей заметкой ["Real Programmers Don't Use Pascal"](http://www.pbm.com/~lindahl/real.programmers.html), самая известная цитата из которой: "Настоящий Программист может программировать на Фортране на любом языке".
