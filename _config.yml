@@ -36,6 +36,7 @@ plugins:
 #  disable_in_development: true
 
 paginate: 30
+permalink: /:year/:month/:day/:title:output_ext
 
 disqus:
   shortname: deadem
@@ -44,7 +45,7 @@ disqus:
 
 sass:
   quiet_deps: true
-    
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
