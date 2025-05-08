@@ -5,7 +5,6 @@ Disallow: /*.webp$
 Disallow: /*.jpg$
 Disallow: /*.png$
 
-User-agent: *
 Disallow: /page1$
 Disallow: /page1/$
 Disallow: /page2$
