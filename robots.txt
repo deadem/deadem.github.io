@@ -25,3 +25,5 @@ Disallow: /page9$
 Disallow: /page9/$
 Disallow: /page10$
 Disallow: /page10/$
+
+Disallow: /images/*
