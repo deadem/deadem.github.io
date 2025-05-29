@@ -2,7 +2,7 @@
 layout: post
 title:  "Код в фильмах: Кремниевая долина, сезон 1 (Silicon Valley S01)"
 date:   2025-05-14 00:00:00
-categories: [movie, code, movie-code]
+categories: [movie, code]
 ---
 
 ![]({{site.url}}/images/silicon-valley/cover.webp)

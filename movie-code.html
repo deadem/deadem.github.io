@@ -1,0 +1,18 @@
+---
+layout: default
+title: Код в фильмах
+permalink: /movie-code.html
+---
+
+<h1>Код в фильмах</h1>
+
+<p>Иногда во время просмотра фильмов на экране мелькают фрагменты какой-то программы. В какой-то момент стало любопытно, а о чём тот или иной фрагмент, что этот код делает в реальности и как он возник. Начал делать скриншоты и разбираться, что же происходит на экране на самом деле.
+</p>
+
+
+<ul>
+  {% assign tagged_pages = site.posts | where_exp: "item", "item.categories contains 'movie'" | where_exp: "item", "item.categories contains 'code'"%}
+  {% for page in tagged_pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>

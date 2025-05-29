@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Код в фильмах: Код на миллиард долларов"
+title:  "Код в фильмах: Код на миллиард долларов (The Billion Dollar Code)"
 date:   2021-12-13 00:00:00 -0400
 categories: [movie, code]
 ---
@@ -23,13 +23,13 @@ categories: [movie, code]
 void KeyLogger::log(int vkCode) {
 
     std::map<int, std::string>::iterator found = specialKeys.find(vkCode);
-    
+
     if (found != specialKeys.end()) {
         log(found->second);
     }
 
     else {
-        // formatting scan code and shift state for the VkKeyScan function 
+        // formatting scan code and shift state for the VkKeyScan function
         // http://msdn.microsoft.com/en-us/library/windows/desktop/ms646329%28v=vs.85%29.aspx
         int keyCode = 0;
         if (isLShiftDown() || isRShiftDown()) {
@@ -45,7 +45,7 @@ void KeyLogger::log(int vkCode) {
 
 ![](/images/the-billoin-dollar-code-s1e4-00-08-11_.png)
 
-Читает, делает записи в блокноте... А на экране и правда фрагмент кода Quad-tree. 
+Читает, делает записи в блокноте... А на экране и правда фрагмент кода Quad-tree.
 ```c#
     return bestIntersection;
 }
