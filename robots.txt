@@ -4,7 +4,6 @@ User-agent: *
 Disallow: /*.webp$
 Disallow: /*.jpg$
 Disallow: /*.png$
-Disallow: /*.xml$
 
 Disallow: /page1$
 Disallow: /page1/$
