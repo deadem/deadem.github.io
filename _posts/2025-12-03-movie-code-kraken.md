@@ -13,7 +13,7 @@ categories: [movie, code]
 
 Но в конце, в ключевой сцене таки случилось интересное.
 
-Сцена запуска мандулы супеороружия:<br>
+Сцена запуска мандулы "супер-оружия":<br>
 ![]({{site.url}}/images/kraken-movie/001.webp)
 
 Внизу чётко виден ассемблерный код. Это фрагмент из [учебника по программированию](https://web.archive.org/web/20250317015153/https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm). Рисуем на экране девять звёздочек в ряд.
