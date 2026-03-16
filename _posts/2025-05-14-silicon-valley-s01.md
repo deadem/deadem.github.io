@@ -103,3 +103,8 @@ categories: [movie, code]
 В 2016 году, через два года после выхода в эфир сериала, `Dropbox` разработал [алгоритм сжатия `JPEG`-картинок](https://dropbox.tech/infrastructure/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs) на 22% без потерь. Использовался факт, что в `JPEG` не бывает резких переходов и, разбив картинку на блоки 8x8 пикселей, можно сэкономить, вычисляя яркость блока относительно его соседей. Авторы его называют, с некоторой натяжкой, конечно, реализацией алгоритма "Изнутри наружу" (`MIDDLE OUT!!`), про который и рассказывал Ричард на ТехКранче.
 
 Проект [`Lepton`](https://github.com/dropbox/lepton). В 2023 году он был закрыт в пользу более популярных [`Brotli`](https://en.wikipedia.org/wiki/Brotli) и [`WebP`](https://en.wikipedia.org/wiki/WebP).
+
+<hr>
+
+[Сезон 1]({{site.url}}{% link _posts/2025-05-14-silicon-valley-s01.md %})
+[Сезон 2]({{site.url}}{% link _posts/2026-03-16-silicon-valley-s02.md %})
