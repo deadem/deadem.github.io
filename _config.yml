@@ -39,8 +39,8 @@ plugins:
 paginate: 30
 permalink: /:year/:month/:day/:title:output_ext
 
-disqus:
-  shortname: deadem
+# disqus:
+#   shortname: deadem
 
 # google_analytics: see _includes/head
 
